@@ -1,0 +1,210 @@
+Owned by Government|
+Propriétée du gouvernement|
+~
+Apartment|
+Appartement|
+~
+Your Name|
+Votre Nom|
+~
+Corporation Name|
+Nom Corporation|
+~
+Difficulty Level|
+Niveau de difficulté|
+~
+New Single-Player|
+Nouveau Jeu Solo|
+~
+CORPORATE COLOR|
+Nouveau Jeu Solo|
+~
+DIFFICULTY RATING|
+Nouveau Jeu Solo|
+~
+Custom|
+Sur Mesure|
+~
+Randomize|
+Aléatoire|
+~
+Start|
+Commencer|
+~
+Back|
+Retour|
+~
+Number of Cities|
+Nombre de Villes|
+~
+Your Start-up Capital|
+Capital de départ|
+~
+Random Events|
+Evènements Aléatoire|
+~
+Game Starting Year|
+Année de commencement|
+~
+Stock Market|
+Bourse|
+~
+Macro Economy Realism|
+Réalisme Macro-Economique|
+~
+Inflation|
+Inflation|
+~
+Retail Store Type|
+Type de magasin|
+~
+Technology Disruption|
+Perturbation Technologique|
+~
+Alternative Stock Sim|
+Bourse alternative|
+~
+Inflation Strength|
+Niveau d'inflation|
+~
+Very Low|
+Très Bas|
+~
+Low|
+Bas|
+~
+Moderate|
+Modéré|
+~
+High|
+Haut|
+~
+Very High|
+Très Haut|
+~
+Never|
+Jamais|
+~
+Seldom|
+Rarement|
+~
+Occasional|
+Occasionnel|
+~
+Frequent|
+Fréquent|
+~
+Many|
+Tous|
+~
+One|
+Un|
+~
+On|
+On|
+~
+Off|
+Off|
+~
+Yes|
+Oui|
+~
+No|
+Non|
+~
+Inverse|
+Inverse|
+~
+Normal|
+Normal|
+~
+Reduced|
+Réduit|
+~
+Number of Competitors|
+Nombre de Concurrent|
+~
+Competitor Start-up Capital|
+Capital de départ des Concurrents|
+~
+Competitor Aggressiveness|
+Agressivité des concurrents|
+~
+None|
+Aucun|
+~
+Competitor Expertise Level|
+Niveau d'Expertise des Concurrents|
+~
+Show Competitor Trade Secrets|
+Montrer les secrets des concurrents|
+~
+AI Friendly Merger|
+Fusion des Concurrents|
+~
+Competence of Local Competitors|
+Compétence des concurrents locaux|
+~
+Number of Seaports Importing Consumer Goods per City|
+Nombre de port important des biens de consomation par ville|
+~
+Number of Seaports Importing Industrial Goods per City|
+Nombre de port important des matières premières par ville|
+~
+Constant Import Supply|
+Importations constantes|
+~
+Import Quality|
+Qualité des importations|
+~
+Values 1|
+Valeurs 1|
+~
+Values 2|
+Valeurs 2|
+~
+Industries|
+Industries|
+~
+Products|
+Produits|
+~
+Challenge Game|
+Jeux Challenge|
+~
+Goal Values|
+Valeurs des objectifs|
+~
+No. of Years|
+Durée (ans)|
+~
+Goal Score Bonus|
+Bonus score d'objectif|
+~
+Player's Wealth($million)|
+Fortune du joueur($million)|
+~
+Annual Revenue|
+Revenus annuels|
+~
+Net Worth|
+Valeur nette|
+~
+Annual Operating Profit|
+Bénéfice d'exploitation annuel|
+~
+Market Cap|
+Capitalisation boursière|
+~
+Goals of the Player's Own Corporation ($million)|
+Objectifs pour la société du joueur|
+~
+Goals of Compagnies Controlled by the Player ($million)|
+Objectifs pour les sociétés sous contrôle du joueur|
+~
+No. of Controlled Companies|
+Nombre de sociétés contrôlées par le joueur|
+~
+Reset Goals|
+Annuler objectifs|
+~

@@ -197,14 +197,185 @@ Market Cap|
 Capitalisation boursière|
 ~
 Goals of the Player's Own Corporation ($million)|
-Objectifs pour la société du joueur|
+Objectifs pour la société du joueur ($million)|
 ~
-Goals of Compagnies Controlled by the Player ($million)|
-Objectifs pour les sociétés sous contrôle du joueur|
+Goals of Companies Controlled by the Player ($million)|
+Objectifs pour les sociétés sous contrôle du joueur ($million)|
 ~
 No. of Controlled Companies|
 Nombre de sociétés contrôlées par le joueur|
 ~
 Reset Goals|
 Annuler objectifs|
+~
+Goals of the Player's Own Corporation|
+Objectifs pour la société du joueur|
+~
+Total No. of Employees|
+Total des employés|
+~
+Operating Profit Margin|
+Marge d'exploitation|
+~
+Return on Equity|
+Rendement des capitaux propres|
+~
+Stock Price|
+Valeur de l'action|
+~
+Ownership|
+Propriétaire|
+~
+No. of Product Classes Being Produced|
+Nombre de classe de produits fabriqués|
+~
+No. of Product Types Being Produced|
+Nombre de type de produits fabriqués|
+~
+Goal Industries - Goals of Industry Dominance|
+Domination dans les secteurs suivants|
+~
+Excluded Industries|
+Secteurs exclus|
+~
+Included Industries|
+Secteurs inclus|
+~
+Retailing|
+Vente|
+~
+Manufacturing|
+Fabrication|
+~
+Farming|
+Agriculture|
+~
+Raw Material Production|
+Secteur primaire|
+~
+Real Estate|
+Immobilier|
+~
+Media|
+Média|
+~
+Add|
+Ajouter|
+~
+Add All|
+Ajouter tout|
+~
+Remove|
+Enlever|
+~
+Remove All|
+Enlever tout|
+~
+Goal Products - Goals of Product Market Dominance|
+Objectif produit - Objectif de secteur en monopole|
+~
+Excluded products|
+Objectifs inclus|
+~
+Included products|
+Objectif exclus|
+~
+Apparel|
+Habillement|
+~
+Beverage|
+Boissons|
+~
+Body Care Products|
+Produit Corporel|
+~
+Communication Devices|
+Périphérique de communication|
+~
+Computer|
+Ordinateur|
+~
+Cosmetics|
+Cosmétique|
+~
+Drugs|
+Médicaments|
+~
+Electonic Products|
+Produit électonique|
+~
+Food|
+Nourriture|
+~
+Footwear|
+Chaussure|
+~
+Furniture|
+Meuble|
+~
+Home Appliances|
+Electoménager|
+~
+Household Products|
+Produit ménager|
+~
+Jewelry|
+Bijoux|
+~
+Leather Goods|
+Maroquinerie|
+~
+Livestock Products|
+Boucherie|
+~
+Photography products|
+Photographie|
+~
+Snacks|
+Collations|
+~
+Sport Equipement|
+Equipement de sport|
+~
+Tobacco Products|
+Tabac|
+~
+Toy|
+Jouet|
+~
+Watch|
+Montres|
+~
+CHALLENGE GAME|
+Jeux challenge|
+~
+Challenge Game Mode|
+Mode de jeux challenge|
+~
+Game Title|
+Titre du jeux|
+~
+Number of Game Years|
+Durée du jeux en année|
+~
+Ranking Method|
+Méthode de classement|
+~
+Instructions: How to set up a private challenge game|
+Instructions: Comment démmarer un challenge privé|
+~
+Score|
+Score|
+~
+Total Revenue|
+Revenu total|
+~
+Total Profit|
+Profit total|
+~
+Industry Revenue|
+Revenu industriel|
+~
+Product Revenue|
+Revenu produit|
 ~

@@ -11,16 +11,16 @@ Corporation Name|
 Nom Corporation|
 ~
 Difficulty Level|
-Niveau de difficult�|
+Niveau de difficulté|
 ~
 New Single-Player|
 Nouveau Jeu Solo|
 ~
 CORPORATE COLOR|
-Couleur de la soci�t�|
+Couleur de la société
 ~
 DIFFICULTY RATING|
-Pourcentage de difficult�|
+Pourcentage de difficulté|
 ~
 Custom|
 Personnaliser|
@@ -38,19 +38,19 @@ Number of Cities|
 Nombre de Villes|
 ~
 Your Start-up Capital|
-Capital de d�part|
+Capital de départ|
 ~
 Random Events|
-Ev?nements Al�atoire|
+Evènements Aléatoire|
 ~
 Game Starting Year|
-Ann?e de commencement|
+Année de commencement|
 ~
 Stock Market|
 Bourse|
 ~
 Macro Economy Realism|
-R?alisme Macro-Economique|
+Réalisme Macro-Economique|
 ~
 Inflation|
 Inflation|
@@ -68,19 +68,19 @@ Inflation Strength|
 Niveau d'inflation|
 ~
 Very Low|
-Tr�s Bas|
+Très Bas|
 ~
 Low|
 Bas|
 ~
 Moderate|
-Mod�r�|
+Modéré|
 ~
 High|
 Haut|
 ~
 Very High|
-Tr�s Haut|
+Très Haut|
 ~
 Never|
 Jamais|
@@ -92,7 +92,7 @@ Occasional|
 Occasionnel|
 ~
 Frequent|
-Fr�quent|
+Fréquent|
 ~
 Many|
 Tous|
@@ -119,16 +119,16 @@ Normal|
 Normal|
 ~
 Reduced|
-R�duit|
+Réduit|
 ~
 Number of Competitors|
 Nombre de Concurrents|
 ~
 Competitor Start-up Capital|
-Capital de d�part des Concurrents|
+Capital de départ des Concurrents|
 ~
 Competitor Aggressiveness|
-Agressivit� des concurrents|
+Agressivité des concurrents|
 ~
 None|
 Aucun|
@@ -143,19 +143,19 @@ AI Friendly Merger|
 Fusion des Concurrents|
 ~
 Competence of Local Competitors|
-Comp?tence des concurrents locaux|
+Compétence des concurrents locaux|
 ~
 Number of Seaports Importing Consumer Goods per City|
 Nombre de port important des biens de consomation par ville|
 ~
 Number of Seaports Importing Industrial Goods per City|
-Nombre de port important des mati�res premi?res par ville|
+Nombre de port important des matiéres premi?res par ville|
 ~
 Constant Import Supply|
 Importations constantes|
 ~
 Import Quality|
-Qualit� des importations|
+Qualité des importations|
 ~
 Values 1|
 Valeurs 1|
@@ -176,7 +176,7 @@ Goal Values|
 Valeurs des objectifs|
 ~
 No. of Years|
-Dur�e (ans)|
+Durée (ans)|
 ~
 Goal Score Bonus|
 Bonus score d'objectif|
@@ -191,28 +191,28 @@ Net Worth|
 Valeur nette|
 ~
 Annual Operating Profit|
-B�n�fice d'exploitation annuel|
+Bénéfice d'exploitation annuel|
 ~
 Market Cap|
-Capitalisation boursi�re|
+Capitalisation boursiére|
 ~
 Goals of the Player's Own Corporation ($million)|
-Objectifs pour la soci�t� du joueur ($million)|
+Objectifs pour la société du joueur ($million)|
 ~
 Goals of Companies Controlled by the Player ($million)|
-Objectifs pour les soci�t�s sous contr�le du joueur ($million)|
+Objectifs pour les sociétés sous contr�le du joueur ($million)|
 ~
 No. of Controlled Companies|
-Nombre de soci�t�s contr�l�es par le joueur|
+Nombre de sociétés contrôlées par le joueur|
 ~
 Reset Goals|
 Annuler objectifs|
 ~
 Goals of the Player's Own Corporation|
-Objectifs pour la soci�t� du joueur|
+Objectifs pour la société du joueur|
 ~
 Total No. of Employees|
-Total des employ�s|
+Total des employés|
 ~
 Operating Profit Margin|
 Marge d'exploitation|
@@ -224,13 +224,13 @@ Stock Price|
 Valeur de l'action|
 ~
 Ownership|
-Propri�taire|
+Propriétaire|
 ~
 No. of Product Classes Being Produced|
-Nombre de classe de produits fabriqu�s|
+Nombre de classe de produits fabriqués|
 ~
 No. of Product Types Being Produced|
-Nombre de type de produits fabriqu�s|
+Nombre de type de produits fabriqués|
 ~
 Goal Industries - Goals of Industry Dominance|
 Domination dans les secteurs suivants|
@@ -257,7 +257,7 @@ Real Estate|
 Immobilier|
 ~
 Media|
-M�dia|
+Média|
 ~
 Add|
 Ajouter|
@@ -290,19 +290,19 @@ Body Care Products|
 Produit Corporel|
 ~
 Communication Devices|
-P�riph�rique de communication|
+Périphérique de communication|
 ~
 Computer|
 Ordinateur|
 ~
 Cosmetics|
-Cosm?tique|
+Cosmétique|
 ~
 Drugs|
-M�dicaments|
+Médicaments|
 ~
 Electonic Products|
-Produit �lectonique|
+Produit électonique|
 ~
 Food|
 Nourriture|
@@ -314,10 +314,10 @@ Furniture|
 Meuble|
 ~
 Home Appliances|
-Electom�nager|
+Electoménager|
 ~
 Household Products|
-Produit m�nager|
+Produit ménager|
 ~
 Jewelry|
 Bijoux|
@@ -356,13 +356,13 @@ Game Title|
 Titre du jeux|
 ~
 Number of Game Years|
-Dur?e du jeux en ann?e|
+Durée du jeux en ann?e|
 ~
 Ranking Method|
-M�thode de classement|
+Méhode de classement|
 ~
 Instructions: How to set up a private challenge game|
-Instructions: Comment d�mmarer un challenge priv�|
+Instructions: Comment démmarer un challenge privé|
 ~
 Score|
 Score|

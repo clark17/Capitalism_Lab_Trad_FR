@@ -41,7 +41,7 @@ Your Start-up Capital|
 Capital de départ|
 ~
 Random Events|
-Ev?nements Aléatoire|
+Evènements Aléatoire|
 ~
 Game Starting Year|
 Année de commencement|
@@ -50,7 +50,7 @@ Stock Market|
 Bourse|
 ~
 Macro Economy Realism|
-R?alisme Macro-Economique|
+Réalisme Macro-Economique|
 ~
 Inflation|
 Inflation|
@@ -143,13 +143,13 @@ AI Friendly Merger|
 Fusion des concurrents|
 ~
 Competence of Local Competitors|
-Comp?tence des concurrents locaux|
+Compétence des concurrents locaux|
 ~
 Number of Seaports Importing Consumer Goods per City|
 Nombre de ports importants des biens de consomation par ville|
 ~
 Number of Seaports Importing Industrial Goods per City|
-Nombre de ports importants des mati?res premières par ville|
+Nombre de ports importants des matières premières par ville|
 ~
 Constant Import Supply|
 Importation constante|

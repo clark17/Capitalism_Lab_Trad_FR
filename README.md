@@ -1,4 +1,4 @@
-Capitalism_Lab_Trad_FR
+Capitalism Lab Trad FR
 ======================
 
 Traduction Française pour le jeu Capitalism Lab => http://www.capitalismlab.com/

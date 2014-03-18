@@ -7,10 +7,9 @@ Installation
 ------------
 
 Créer le sous répertoire *translate* de votre installation de Capitalism lab, puis placer le fichier 
-*Translate.txt* dedans.
+*Translate.txt* de la racine dedans.
 
 Contributions
 -------------
 
-Si vous désirez enrichir la traduction, il suffit d'éditer le fichier *translate.txt* à l'aide d'un éditeur de texte
-permettant de sauvegarder celui-ci en encodage ANSI (Notepad++ par exemple). Sinon les accents poseront problème dans le jeu.
+Si vous désirez enrichir la traduction, il suffit d'éditer le fichier *translate.txt* du sous répertoire Source (UTF8 format) à l'aide d'un éditeur de texte permettant de sauvegarder celui-ci en encodage UTF8 (Notepad++ par exemple).

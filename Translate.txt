@@ -1,8 +1,5 @@
-Owned by Government|
-Propriété du gouvernement|
-~
-Apartment|
-Appartement|
+LOAD SCRIPT|
+Charger script|
 ~
 Your Name|
 Votre Nom|
@@ -13,8 +10,8 @@ Nom Corporation|
 Difficulty Level|
 Niveau de difficulté|
 ~
-New Single-Player|
-Nouveau Jeu Solo|
+NEW SINGLE-PLAYER GAME|
+NOUVEAU JEU SOLO|
 ~
 CORPORATE COLOR|
 Couleur de la société|
@@ -181,8 +178,8 @@ Durée (ans)|
 Goal Score Bonus|
 Bonus score d'objectif|
 ~
-Player's Wealth($million)|
-Fortune du joueur($million)|
+Player's Wealth ($million)|
+Fortune du joueur ($million)|
 ~
 Annual Revenue|
 Revenus annuels|
@@ -352,8 +349,8 @@ DEFIS|
 Challenge Game Mode|
 Mode de jeu challenge|
 ~
-Game Title|
-Titre du jeu|
+Challenge Game Title|
+Titre du jeu challenge|
 ~
 Number of Game Years|
 Durée d'année|
@@ -378,4 +375,46 @@ Revenu industriel|
 ~
 Product Revenue|
 Revenu produit|
+~
+You haven't saved any games yet.|
+Vous n'avez sauvegardé aucune partie.|
+~
+Public Challenge Games| // Ne fonctionne pas
+Jeux challenge publics| // Ne fonctionne pas
+~
+Private Challenge Games| // Ne fonctionne pas
+Jeux challenge privés|   // Ne fonctionne pas
+~
+Record:|                 // Ne fonctionne pas
+Enregistrement:|         // Ne fonctionne pas
+~
+Rankings|
+Classement|
+~
+Load|
+Charger|
+~
+Cancel|
+Annuler|
+~
+About|
+A propos|
+~
+Owned by Government|
+Propriété du gouvernement|
+~
+Apartment|
+Appartement|
+~
+TV Station|
+Station de TV|
+~
+Function: Advertising your products|
+Fonction: Faire la publicité de vos produits|
+~
+Commercial Building|
+Immeuble commerciale|
+~
+Tennis Court|
+Terrain de tennis|
 ~

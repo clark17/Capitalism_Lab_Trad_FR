@@ -17,7 +17,7 @@ New Single-Player|
 Nouveau Jeu Solo|
 ~
 CORPORATE COLOR|
-Couleur de la société
+Couleur de la société|
 ~
 DIFFICULTY RATING|
 Pourcentage de difficulté|
@@ -44,7 +44,7 @@ Random Events|
 Evènements Aléatoire|
 ~
 Game Starting Year|
-Année de commencement|
+Année de départ|
 ~
 Stock Market|
 Bourse|
@@ -122,10 +122,10 @@ Reduced|
 Réduit|
 ~
 Number of Competitors|
-Nombre de Concurrents|
+Nombre de concurrents|
 ~
 Competitor Start-up Capital|
-Capital de départ des Concurrents|
+Capital de départ des concurrents|
 ~
 Competitor Aggressiveness|
 Agressivité des concurrents|
@@ -134,7 +134,7 @@ None|
 Aucun|
 ~
 Competitor Expertise Level|
-Niveau d'Expertise des Concurrents|
+Niveau d'Expertise des concurrents|
 ~
 Show Competitor Trade Secrets|
 Montrer les secrets des concurrents|
@@ -356,13 +356,13 @@ Game Title|
 Titre du jeu|
 ~
 Number of Game Years|
-Durée du jeuxen année|
+Durée d'année|
 ~
 Ranking Method|
 Méhode de classement|
 ~
 Instructions: How to set up a private challenge game|
-Instructions: Comment démmarer un défi privé|
+Instructions: Comment créer un défi privé|
 ~
 Score|
 Score|

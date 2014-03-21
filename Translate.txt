@@ -1,260 +1,14 @@
 LOAD SCRIPT|
 Charger script|
 ~
-Your Name|
-Votre Nom|
-~
-Corporation Name|
-Nom Corporation|
-~
-Difficulty Level|
-Niveau de difficulté|
-~
-NEW SINGLE-PLAYER GAME|
-NOUVEAU JEU SOLO|
-~
-CORPORATE COLOR|
-Couleur de la société|
-~
-DIFFICULTY RATING|
-Pourcentage de difficulté|
-~
-Custom|
-Personnaliser|
-~
-Randomize|
-Aléatoire|
-~
-Start|
-Commencer|
-~
-Back|
-Retour|
-~
-Number of Cities|
-Nombre de Villes|
-~
-Your Start-up Capital|
-Capital de départ|
-~
-Random Events|
-Evènements Aléatoire|
-~
-Game Starting Year|
-Année de départ|
-~
-Stock Market|
-Bourse|
-~
-Macro Economy Realism|
-Réalisme Macro-Economique|
-~
-Inflation|
-Inflation|
-~
-Retail Store Type|
-Type de magasin|
-~
-Technology Disruption|
-Perturbation Technologique|
-~
-Alternative Stock Sim|
-Bourse alternative|
-~
-Inflation Strength|
-Niveau d'inflation|
-~
-Very Low|
-Très Bas|
-~
-Low|
-Bas|
-~
-Moderate|
-Modéré|
-~
-High|
-Haut|
-~
-Very High|
-Très Haut|
-~
-Never|
-Jamais|
-~
-Seldom|
-Rarement|
-~
-Occasional|
-Parfois|
-~
-Frequent|
-Fréquent|
-~
-Many|
-Tous|
-~
-One|
-Un|
-~
-On|
-On|
-~
-Off|
-Off|
-~
-Yes|
-Oui|
-~
-No|
-Non|
-~
-Inverse|
-Inverse|
-~
-Normal|
-Normal|
-~
-Reduced|
-Réduit|
-~
-Number of Competitors|
-Nombre de concurrents|
-~
-Competitor Start-up Capital|
-Capital de départ des concurrents|
+About|
+A propos|
 ~
 Competitor Aggressiveness|
 Agressivité des concurrents|
 ~
-None|
-Aucun|
-~
-Competitor Expertise Level|
-Niveau d'Expertise des concurrents|
-~
-Show Competitor Trade Secrets|
-Montrer les secrets des concurrents|
-~
-AI Friendly Merger|
-Fusion des concurrents|
-~
-Competence of Local Competitors|
-Compétence des concurrents locaux|
-~
-Number of Seaports Importing Consumer Goods per City|
-Nombre de ports importants des biens de consomation par ville|
-~
-Number of Seaports Importing Industrial Goods per City|
-Nombre de ports importants des matières premières par ville|
-~
-Constant Import Supply|
-Importation constante|
-~
-Import Quality|
-Qualité des importations|
-~
-Values 1|
-Valeurs 1|
-~
-Values 2|
-Valeurs 2|
-~
-Industries|
-Industries|
-~
-Products|
-Produits|
-~
-Challenge Game|
-Défis|
-~
-Goal Values|
-Valeurs des objectifs|
-~
-No. of Years|
-Durée (ans)|
-~
-Goal Score Bonus|
-Bonus score d'objectif|
-~
-Player's Wealth ($million)|
-Fortune du joueur ($million)|
-~
-Annual Revenue|
-Revenus annuels|
-~
-Net Worth|
-Valeur nette|
-~
-Annual Operating Profit|
-Bénéfice d'exploitation annuel|
-~
-Market Cap|
-Capitalisation boursière|
-~
-Goals of the Player's Own Corporation ($million)|
-Objectifs pour la société du joueur ($million)|
-~
-Goals of Companies Controlled by the Player ($million)|
-Objectifs pour les sociétés sous contrôle du joueur ($million)|
-~
-No. of Controlled Companies|
-Nombre de sociétés contrôlées par le joueur|
-~
-Reset Goals|
-Par défaut|
-~
-Goals of the Player's Own Corporation|
-Objectifs pour la société du joueur|
-~
-Total No. of Employees|
-Total des employés|
-~
-Operating Profit Margin|
-Marge d'exploitation|
-~
-Return on Equity|
-Rendement des capitaux propres|
-~
-Stock Price|
-Valeur de l'action|
-~
-Ownership|
-Propriétaire|
-~
-No. of Product Classes Being Produced|
-Nombre de classe de produits fabriqués|
-~
-No. of Product Types Being Produced|
-Nombre de type de produits fabriqués|
-~
-Goal Industries - Goals of Industry Dominance|
-Domination dans les secteurs suivants|
-~
-Excluded Industries|
-Secteurs exclus|
-~
-Included Industries|
-Secteurs inclus|
-~
-Retailing|
-Vente|
-~
-Manufacturing|
-Fabrication|
-~
 Farming|
 Agriculture|
-~
-Raw Material Production|
-Secteur primaire|
-~
-Real Estate|
-Immobilier|
-~
-Media|
-Média|
 ~
 Add|
 Ajouter|
@@ -262,11 +16,233 @@ Ajouter|
 Add All|
 Ajouter tout|
 ~
+Randomize|
+Aléatoire|
+~
+Game Starting Year|
+Année de départ|
+~
+Cancel|
+Annuler|
+~
+Apartment|
+Appartement|
+~
+None|
+Aucun|
+~
+Low|
+Bas|
+~
+Annual Operating Profit|
+Bénéfice d'exploitation annuel|
+~
+Jewelry|
+Bijoux|
+~
+Beverage|
+Boissons|
+~
+Goal Score Bonus|
+Bonus score d'objectif|
+~
+Livestock Products|
+Boucherie|
+~
+Stock Market|
+Bourse|
+~
+Alternative Stock Sim|
+Bourse alternative|
+~
+Your Start-up Capital|
+Capital de départ|
+~
+Competitor Start-up Capital|
+Capital de départ des concurrents|
+~
+Market Cap|
+Capitalisation boursière|
+~
+Load|
+Charger|
+~
+Footwear|
+Chaussure|
+~
+Rankings|
+Classement|
+~
+Snacks|
+Collations|
+~
+Start|
+Commencer|
+~
+Competence of Local Competitors|
+Compétence des concurrents locaux|
+~
+Cosmetics|
+Cosmétique|
+~
+CORPORATE COLOR|
+Couleur de la société|
+~
+CHALLENGE GAME|
+DEFIS|
+~
+Challenge Game|
+Défis|
+~
+Goal Industries - Goals of Industry Dominance|
+Domination dans les secteurs suivants|
+~
+No. of Years|
+Durée (ans)|
+~
+Number of Game Years|
+Durée d'année|
+~
+Home Appliances|
+Electoménager|
+~
 Remove|
 Enlever|
 ~
 Remove All|
 Enlever tout|
+~
+Sport Equipement|
+Equipement de sport|
+~
+Random Events|
+Evènements Aléatoire|
+~
+Manufacturing|
+Fabrication|
+~
+Function: Advertising your products|
+Fonction: Faire la publicité de vos produits|
+~
+Player's Wealth ($million)|
+Fortune du joueur ($million)|
+~
+Frequent|
+Fréquent|
+~
+AI Friendly Merger|
+Fusion des concurrents|
+~
+Apparel|
+Habillement|
+~
+High|
+Haut|
+~
+Commercial Building|
+Immeuble commerciale|
+~
+Real Estate|
+Immobilier|
+~
+Constant Import Supply|
+Importation constante|
+~
+Industries|
+Industries|
+~
+Inflation|
+Inflation|
+~
+Instructions: How to set up a private challenge game|
+Instructions: Comment créer un défi privé|
+~
+Inverse|
+Inverse|
+~
+Never|
+Jamais|
+~
+Toy|
+Jouet|
+~
+Operating Profit Margin|
+Marge d'exploitation|
+~
+Leather Goods|
+Maroquinerie|
+~
+Media|
+Média|
+~
+Drugs|
+Médicaments|
+~
+Ranking Method|
+Méhode de classement|
+~
+Furniture|
+Meuble|
+~
+Challenge Game Mode|
+Mode de jeu challenge|
+~
+Moderate|
+Modéré|
+~
+Show Competitor Trade Secrets|
+Montrer les secrets des concurrents|
+~
+Watch|
+Montres|
+~
+Competitor Expertise Level|
+Niveau d'Expertise des concurrents|
+~
+Inflation Strength|
+Niveau d'inflation|
+~
+Difficulty Level|
+Niveau de difficulté|
+~
+Corporation Name|
+Nom Corporation|
+~
+No. of Product Classes Being Produced|
+Nombre de classe de produits fabriqués|
+~
+Number of Competitors|
+Nombre de concurrents|
+~
+Number of Seaports Importing Consumer Goods per City|
+Nombre de ports importants des biens de consomation par ville|
+~
+Number of Seaports Importing Industrial Goods per City|
+Nombre de ports importants des matières premières par ville|
+~
+No. of Controlled Companies|
+Nombre de sociétés contrôlées par le joueur|
+~
+No. of Product Types Being Produced|
+Nombre de type de produits fabriqués|
+~
+Number of Cities|
+Nombre de Villes|
+~
+No|
+Non|
+~
+Normal|
+Normal|
+~
+Food|
+Nourriture|
+~
+NEW SINGLE-PLAYER GAME|
+NOUVEAU JEU SOLO|
+~
+Included products|
+Objectif exclus|
 ~
 Goal Products - Goals of Product Market Dominance|
 Objectif produit - Objectif de secteur en monopole|
@@ -274,101 +250,86 @@ Objectif produit - Objectif de secteur en monopole|
 Excluded products|
 Objectifs inclus|
 ~
-Included products|
-Objectif exclus|
+Goals of the Player's Own Corporation|
+Objectifs pour la société du joueur|
 ~
-Apparel|
-Habillement|
+Goals of the Player's Own Corporation ($million)|
+Objectifs pour la société du joueur ($million)|
 ~
-Beverage|
-Boissons|
+Goals of Companies Controlled by the Player ($million)|
+Objectifs pour les sociétés sous contrôle du joueur ($million)|
 ~
-Body Care Products|
-Produit Corporel|
+Off|
+Off|
 ~
-Communication Devices|
-Périphérique de communication|
+On|
+On|
 ~
 Computer|
 Ordinateur|
 ~
-Cosmetics|
-Cosmétique|
+Yes|
+Oui|
 ~
-Drugs|
-Médicaments|
+Reset Goals|
+Par défaut|
 ~
-Electonic Products|
-Produit électonique|
+Occasional|
+Parfois|
 ~
-Food|
-Nourriture|
+Communication Devices|
+Périphérique de communication|
 ~
-Footwear|
-Chaussure|
+Custom|
+Personnaliser|
 ~
-Furniture|
-Meuble|
-~
-Home Appliances|
-Electoménager|
-~
-Household Products|
-Produit ménager|
-~
-Jewelry|
-Bijoux|
-~
-Leather Goods|
-Maroquinerie|
-~
-Livestock Products|
-Boucherie|
+Technology Disruption|
+Perturbation Technologique|
 ~
 Photography products|
 Photographie|
 ~
-Snacks|
-Collations|
+DIFFICULTY RATING|
+Pourcentage de difficulté|
 ~
-Sport Equipement|
-Equipement de sport|
+Body Care Products|
+Produit Corporel|
 ~
-Tobacco Products|
-Tabac|
+Electonic Products|
+Produit électonique|
 ~
-Toy|
-Jouet|
+Household Products|
+Produit ménager|
 ~
-Watch|
-Montres|
-~
-CHALLENGE GAME|
-DEFIS|
-~
-Challenge Game Mode|
-Mode de jeu challenge|
-~
-Challenge Game Title|
-Titre du jeu challenge|
-~
-Number of Game Years|
-Durée d'année|
-~
-Ranking Method|
-Méhode de classement|
-~
-Instructions: How to set up a private challenge game|
-Instructions: Comment créer un défi privé|
-~
-Score|
-Score|
-~
-Total Revenue|
-Revenu total|
+Products|
+Produits|
 ~
 Total Profit|
 Profit total|
+~
+Ownership|
+Propriétaire|
+~
+Owned by Government|
+Propriété du gouvernement|
+~
+Import Quality|
+Qualité des importations|
+~
+Seldom|
+Rarement|
+~
+Macro Economy Realism|
+Réalisme Macro-Economique|
+~
+Reduced|
+Réduit|
+~
+Return on Equity|
+Rendement des capitaux propres|
+~
+Back|
+Retour|
 ~
 Industry Revenue|
 Revenu industriel|
@@ -376,45 +337,75 @@ Revenu industriel|
 Product Revenue|
 Revenu produit|
 ~
-You haven't saved any games yet.|
-Vous n'avez sauvegardé aucune partie.|
+Total Revenue|
+Revenu total|
 ~
-Public Challenge Games| // Ne fonctionne pas
-Jeux challenge publics| // Ne fonctionne pas
+Annual Revenue|
+Revenus annuels|
 ~
-Private Challenge Games| // Ne fonctionne pas
-Jeux challenge privés|   // Ne fonctionne pas
+Score|
+Score|
 ~
-Record:|                 // Ne fonctionne pas
-Enregistrement:|         // Ne fonctionne pas
+Raw Material Production|
+Secteur primaire|
 ~
-Rankings|
-Classement|
+Excluded Industries|
+Secteurs exclus|
 ~
-Load|
-Charger|
-~
-Cancel|
-Annuler|
-~
-About|
-A propos|
-~
-Owned by Government|
-Propriété du gouvernement|
-~
-Apartment|
-Appartement|
+Included Industries|
+Secteurs inclus|
 ~
 TV Station|
 Station de TV|
 ~
-Function: Advertising your products|
-Fonction: Faire la publicité de vos produits|
-~
-Commercial Building|
-Immeuble commerciale|
+Tobacco Products|
+Tabac|
 ~
 Tennis Court|
 Terrain de tennis|
+~
+Challenge Game Title|
+Titre du jeu challenge|
+~
+Total No. of Employees|
+Total des employés|
+~
+Many|
+Tous|
+~
+Very Low|
+Très Bas|
+~
+Very High|
+Très Haut|
+~
+Retail Store Type|
+Type de magasin|
+~
+One|
+Un|
+~
+Stock Price|
+Valeur de l'action|
+~
+Net Worth|
+Valeur nette|
+~
+Values 1|
+Valeurs 1|
+~
+Values 2|
+Valeurs 2|
+~
+Goal Values|
+Valeurs des objectifs|
+~
+Retailing|
+Vente|
+~
+Your Name|
+Votre Nom|
+~
+You haven't saved any games yet.|
+Vous n'avez sauvegardé aucune partie.|
 ~

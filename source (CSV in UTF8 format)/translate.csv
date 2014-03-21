@@ -61,7 +61,7 @@ Are you sure that you want to demolish the apartment and sell the land? \n \nThe
 Are you sure that you want to demolish the commerical building and sell the land? \n \nThe land can be sold for|
 Are you sure that you want to demolish the mansion and sell the land? \n \nThe land can be sold for|
 Are you sure that you want to demolish this \nfirm and sell the land for|
-Area.|Terrain
+Area.|Terrain.
 Area. Fields are Completely Stripped of Vegetation.|
 Ask Salary Raise|Demander une augmentation de salaire
 Assets Turnover|
@@ -1320,8 +1320,6 @@ SETTING UP YOUR MULTI-PLAYER GAME|
 Setup Cost|
 Setup:|
 Share Dilution|
-Shareholder              Owned Qty    Owned%     Stock Value|
-Shareholder              Owned Qty    Owned%   Stock Value   Position|
 SHAREHOLDER EQUITY|
 Shareholders|
 shares|
@@ -1667,3 +1665,6 @@ Yours|
 YTD|
 YTD Changes|
 YTD Trade|
+Public Challenge Games|Jeux challenge publics
+Private Challenge Games|Jeux challenge privés
+Record|Enregistrement

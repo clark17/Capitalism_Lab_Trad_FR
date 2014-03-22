@@ -101,7 +101,7 @@ Billionaires 100|
 Blazer|Blouson
 Body Care Products|Produits Corporels
 Bonus|Bonus
-Boom|Boom|
+Boom|Boom
 Borrow|
 Borrow/Repay Loan|
 Borrows|
@@ -382,6 +382,7 @@ Custom|Personnaliser
 Custom game unexpected end of file.|
 Customer Traffic|
 Customer Traffic:|
+D1etail Report|Rapport détails
 Daily Ad. Freq.|Publicité par jour
 Daily Frequency|Fréquence journalière
 Day|Jour
@@ -411,7 +412,6 @@ Description of the saved game:|Description de la partie sauvée
 DESSERT|DESSERT
 Destroyed All Independent Fryhtan Lairs|
 Detail|Détails
-D1etail Report|Rapport détails
 Detailed|Détaillé
 Detergent|Détergent
 DETERGENT|DETERGENT
@@ -1129,6 +1129,7 @@ Pricing Policy|
 Pricing policy|
 Printer|
 PRINTER|
+Private Challenge Games|Jeux challenge privés
 Private Corporation|
 Private Labelling Unit|
 Privatization|
@@ -1161,6 +1162,7 @@ Progress Indicator|
 Project Management:|
 Prosperous|
 PSEMI|
+Public Challenge Games|Jeux challenge publics
 Public Relations Department|
 PUBLIC RELATIONS DEPARTMENT|
 Public Shareholders|
@@ -1227,6 +1229,7 @@ Real Estate Focused|
 Real Wage Rate|
 Real Wage Rate:|
 Received Dividends|
+Record|Enregistrement
 Record No.|
 Reduced|Réduit
 Refrigerator|
@@ -1665,6 +1668,3 @@ Yours|
 YTD|
 YTD Changes|
 YTD Trade|
-Public Challenge Games|Jeux challenge publics
-Private Challenge Games|Jeux challenge privés
-Record|Enregistrement

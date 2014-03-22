@@ -1,6 +1,3 @@
-LOAD SCRIPT|
-Charger script|
-~
 (Years)|
 (années)|
 ~
@@ -22,242 +19,23 @@ Charger script|
 6 months|
 6 mois|
 ~
-Abort|
-Annuler|
+at|
+à|
 ~
 About|
 A propos|
 ~
-Add|
-Ajouter|
+FOR SALE|
+A VENDRE|
 ~
-Add All|
-Ajouter tout|
+For Sale|
+A vendre|
 ~
-Advertise|
-Publier|
+Price Agreement|
+Accord de prix|
 ~
-Advertising|
-Publicité|
-~
-Advertising & PR Expense|
-Dépense publicitaire & RP|
-~
-Advertising cost (Cost per Thousand)|
-Prix de la publicité (coût pour 100)|
-~
-Advertising Cost (CPM)|
-Coût de la publicité (mensuel)|
-~
-Advertising Expense|
-Dépense publicitaire|
-~
-after|
-Après|
-~
-Aggressive|
-Aggressif|
-~
-AI Friendly Merger|
-Fusion des concurrents|
-~
-All|
-Tout|
-~
-All Available|
-Tout disponible|
-~
-All cities|
-Toutes les villes|
-~
-All Cities|
-Toutes les villes|
-~
-All companies|
-Toutes les compagnies|
-~
-All Media Firms|
-Tous les médias|
-~
-All products|
-Tous les produits|
-~
-Alternative Stock Sim|
-Bourse alternative|
-~
-Always|
-Toujours|
-~
-Always enable it|
-Toujours faire ça|
-~
-Annual Gross Profit|
-Bénéfice brut annuel|
-~
-Annual Net Profit|
-Bénéfice net annuel|
-~
-Annual Operating Profit|
-Bénéfice d'exploitation annuel|
-~
-Annual Operating Profit of Companies Under Your Control|
-Bénéfice d'exploitation annuel des compagnies sous votre contrôle|
-~
-Annual Operating Profit of Your Corporation|
-Bénéfice d'exploitation annuel de votre société|
-~
-Annual Profit|
-Bénéfice annuel|
-~
-Annual return on investment:|
-Retour sur investissement annuel|
-~
-Annual Revenue|
-Revenu annuel|
-~
-Annual Revenue of Companies Under Your Control|
-Revenu annuel des compagnies sous votre contrôle|
-~
-Annual Revenue of Your Corporation|
-Revenue annuel de votre société|
-~
-Annual Salary|
-Salaire annuel|
-~
-Annual Salary: |
-Salaire annuel:|
-~
-Apartment|
-Appartement|
-~
-Apparel|
-Habillement|
-~
-Apparel Store|
-Magasin de vêtements|
-~
-Apply All|
-Appliquer à tout|
-~
-April|
-Avril|
-~
-Are you Certain that you wish to delete this person from the list?|
-Êtes-vous certain de vouloir supprimer cette personne de la liste ?|
-~
-Area.|
-Terrain.|
-~
-Ask Salary Raise|
-Demander une augmentation de salaire|
-~
-at|
-à|
-~
-Attitude Towards You|
-Attitude envers vous|
-~
-August|
-Août|
-~
-Automobile|
-Automobile|
-~
-AUTOMOBILE|
-AUTOMOBILE|
-~
-Available|
-Disponible|
-~
-Average|
-Moyenne|
-~
-Back|
-Retour|
-~
-back|
-retour|
-~
-Bad|
-Mauvais|
-~
-Balance Sheet|
-Bilan financier|
-~
-Bank Loans|
-Emprunts bancaires|
-~
-BANKRUPTCY|
-BANQUEROUTE|
-~
-BANKRUPTCY!|
-BANQUEROUTE!|
-~
-BASIC|
-Basique|
-~
-Bath Lotion|
-Lotion de bain|
-~
-Bed|
-Lit|
-~
-Beverage|
-Boissons|
-~
-billion|
-milliard|
-~
-billion x 10|
-milliard x 10|
-~
-billion x 100|
-milliard x 100|
-~
-Blazer|
-Blouson|
-~
-Body Care Products|
-Produits Corporels|
-~
-Bonus|
-Bonus|
-~
-Boom|
-Boom|
-~
-Bottled Milk|
-Bouteille de lait|
-~
-Bread|
-Pain|
-~
-BUILD|
-CONSTRUIRE|
-~
-Building costs:|
-Coûts de construction|
-~
-Building Size|
-Taille du bâtiment|
-~
-Building Types|
-Types de construction|
-~
-Built with funds donated by:|
-Offert par:|
-~
-Business Relations|
-Relations commerciales|
-~
-Buy Firm|
-Acheter la firme|
-~
-Buy Land|
-Acheter le terrain|
-~
-Buy Stock|
-Acheter des actions|
+Buys|
+Achète|
 ~
 Buy this apartment|
 Acheter cet appartement|
@@ -268,26 +46,86 @@ Acheter cet immeuble commercial|
 Buy this mansion|
 Acheter cette maison|
 ~
-Buys|
-Achète|
+Buy Stock|
+Acheter des actions|
 ~
-C.E.O.|
-P.D.G.|
+Buy Firm|
+Acheter la firme|
 ~
-C.E.O. of|
-P.D.G. de|
+Buy Land|
+Acheter le terrain|
 ~
-Cakes|
-Gâteaux|
+Citric Acid|
+Acide citrique|
 ~
-CAKES|
-GÂTEAUX|
+CITRIC ACID|
+ACIDE CITRIQUE|
 ~
-CAMCORDER|
-CAMESCOPE|
+Chairman|
+Actionnaire majoritaire|
 ~
-Camcorder|
-Caméscope|
+Chairman & CEO|
+Actionnaire majoritaire & PDG|
+~
+Chairman and CEO|
+Actionnaire majoritaire et PDG|
+~
+Financial Actions|
+Actions financières|
+~
+CURRENT|
+ACTUEL|
+~
+Aggressive|
+Aggressif|
+~
+Computer's Aggressiveness|
+Aggressivité|
+~
+FROZEN LAMB|
+AGNEAU CONGELE|
+~
+Frozen Lamb|
+Agneau congelé|
+~
+Expansion|
+Agrandissement|
+~
+Competitor Aggressiveness|
+Agressivité des concurrents|
+~
+Farming|
+Agriculture|
+~
+Add|
+Ajouter|
+~
+Add All|
+Ajouter tout|
+~
+Randomize|
+Aléatoire|
+~
+Go|
+Aller|
+~
+Go to Client|
+Aller au client|
+~
+Go to Media|
+Aller au média|
+~
+Game Starting Year|
+Année de départ|
+~
+Abort|
+Annuler|
+~
+Cancel|
+Annuler|
+~
+August|
+Août|
 ~
 Camera|
 Appareil photo|
@@ -295,17 +133,140 @@ Appareil photo|
 CAMERA|
 APPAREIL PHOTO|
 ~
-Camera Phone|
-Smartphone|
+Apartment|
+Appartement|
 ~
-CAMERA PHONE|
-SMARTPHONE|
+Owned by|
+Appartient à|
 ~
-Can be sold in:|
-Peut être vendu à:|
+Apply All|
+Appliquer à tout|
 ~
-Cancel|
-Annuler|
+after|
+Après|
+~
+Cash|
+Argent|
+~
+CASH|
+ARGENT|
+~
+Cash:|
+Argent:|
+~
+Central Bank Attitude|
+Attitude de la Banque Centrale|
+~
+Attitude Towards You|
+Attitude envers vous|
+~
+None|
+Aucun|
+~
+Fund to be Raised|
+Augmenter les fonds|
+~
+Automobile|
+Automobile|
+~
+AUTOMOBILE|
+AUTOMOBILE|
+~
+Competitor Advantage|
+Avantage des concurrents|
+~
+April|
+Avril|
+~
+Bank|
+Banque|
+~
+BANKRUPTCY|
+BANQUEROUTE|
+~
+BANKRUPTCY!|
+BANQUEROUTE!|
+~
+CHOCOLATE BAR|
+BARRE CHOCOLATEE|
+~
+Chocolate Bar|
+Barre chocolatée|
+~
+CEREAL BAR|
+BARRE DE CEREALE|
+~
+Cereal Bar|
+Barre de céréale|
+~
+Low|
+Bas|
+~
+BASIC|
+Basique|
+~
+Community Building|
+Bâtiments communautaires|
+~
+Good|
+Ben|
+~
+Annual Profit|
+Bénéfice annuel|
+~
+Annual Gross Profit|
+Bénéfice brut annuel|
+~
+Annual Operating Profit|
+Bénéfice d'exploitation annuel|
+~
+Annual Operating Profit of Your Corporation|
+Bénéfice d'exploitation annuel de votre société|
+~
+Annual Operating Profit of Companies Under Your Control|
+Bénéfice d'exploitation annuel des compagnies sous votre contrôle|
+~
+Firm Profit|
+Bénéfice de la firme|
+~
+Annual Net Profit|
+Bénéfice net annuel|
+~
+Earnings Per Share|
+Bénéfice par action|
+~
+Cattle|
+Bétail|
+~
+Cool|
+Bien|
+~
+Consumer Goods|
+Biens consommés|
+~
+Industrial Goods|
+Biens industriels|
+~
+Jewelry|
+Bijoux|
+~
+Balance Sheet|
+Bilan financier|
+~
+Corporate Balance Sheet|
+Bilan financier de la société|
+~
+Blazer|
+Blouson|
+~
+FROZEN BEEF|
+BOEUF CONGELE|
+~
+Frozen Beef|
+Boeuf congelé|
+~
+Beverage|
+Boissons|
 ~
 Canned Corn|
 Boite de MAÏS|
@@ -319,26 +280,695 @@ Boite de soupe|
 CANNED SOUP|
 BOITE DE SOUPE|
 ~
-Cannot be sold in|
-Ne peut être vendu à|
+Bonus|
+Bonus|
 ~
-Cannot be sold in:|
-Ne peut être vendu à:|
+Goal Score Bonus|
+Bonus score d'objectif|
 ~
-Cannot connect to lobby|
-Ne peut se connecter chez l'hôte|
+Boom|
+Boom|
 ~
-Cannot create player|
-Ne peut créer le joueur|
+Livestock Products|
+Boucherie|
 ~
-Cannot create session|
-Ne peut créer la session|
+Stock Market|
+Bourse|
 ~
-Cannot delete this slot|
-Ne peut supprimer cette place|
+Alternative Stock Sim|
+Bourse alternative|
 ~
-Cannot join session|
-Impossible de rejoindre la session|
+Bottled Milk|
+Bouteille de lait|
+~
+Fog of War|
+Brouillard de guerre|
+~
+Chief Operating Officer's Office|
+Bureau du Directeur d'Exploitation|
+~
+CHIEF OPERATING OFFICER'S OFFICE|
+BUREAU DU DIRECTEUR D'EXPLOITATION|
+~
+Chief Marketing Officer's Office|
+Bureau du Directeur Marketing|
+~
+CHIEF MARKETING OFFICER'S OFFICE|
+BUREAU DU DIRECTEUR MARKETING|
+~
+CHIEF TECHNICAL OFFICER'S OFFICE|
+BUREAU DU DIRECTEUR RECHERCHE & DEVELOPPEMENT|
+~
+Chief Technical Officer's Office|
+Bureau du Directeur Recherche & Développement|
+~
+Chief Executive Officer Office|
+Bureau du Président-Directeur Général|
+~
+Chief Executive Officer's Office|
+Bureau du Président-Directeur Général|
+~
+Cocoa|
+Cacao|
+~
+COCOA|
+CACAO|
+~
+Compact Kamera|
+Caméra compact|
+~
+COMPACT KAMERA|
+Caméra compact|
+~
+DIGITAL CAMERA|
+CAMERA NUMERIQUE|
+~
+Digital Camera|
+Caméra numérique|
+~
+CAMCORDER|
+CAMESCOPE|
+~
+Camcorder|
+Caméscope|
+~
+Your Start-up Capital|
+Capital de départ|
+~
+Competitor Start-up Capital|
+Capital de départ des concurrents|
+~
+Market Cap|
+Capitalisation boursière|
+~
+Career|
+Carrière|
+~
+Car Body|
+Carrosserie|
+~
+CAR BODY|
+CARROSSERIE|
+~
+Fire Station|
+Caserne des pompiers|
+~
+Information Center|
+Centre d'information|
+~
+Ceases.|
+Cesse.|
+~
+Chair|
+Chaise|
+~
+CHAIR|
+CHAISE|
+~
+Field of Expertise|
+Champ d'expertise|
+~
+Change Internal Sale|
+Changer en vente interne|
+~
+Change Training Budget|
+Changer le budget d'entraînement|
+~
+COAL|
+CHARBON|
+~
+Load|
+Charger|
+~
+LOAD SCRIPT|
+Charger script|
+~
+Chart|
+Charte|
+~
+Hot|
+Chaud|
+~
+Footwear|
+Chaussure|
+~
+Footweare|
+Chaussure|
+~
+FOOTWEARE|
+CHAUSSURE|
+~
+Chewing Gum|
+Chewing-gum|
+~
+CHEWING GUM|
+CHEWING-GUM|
+~
+Cigars|
+Cigares|
+~
+CIGARS|
+CIGARES|
+~
+Cigarettes|
+Cigarettes|
+~
+CIGARETTES|
+CIGARETTES|
+~
+Rankings|
+Classement|
+~
+Client|
+Client|
+~
+Clients|
+Clients|
+~
+Golf Clubs|
+Club de golF|
+~
+GOLF CLUBS|
+CLUB DE GOLF|
+~
+Pig|
+Cochon|
+~
+CHEAT ENABLE|
+Code activé|
+~
+Snacks|
+Collations|
+~
+Hair Color|
+Coloration|
+~
+HAIR COLOR|
+COLORATION|
+~
+How much do you offer ?|
+Combien m'offrez-vous ?|
+~
+Start|
+Commencer|
+~
+Police Station|
+Commissariat de police|
+~
+Competence of Local Competitors|
+Compétence des concurrents locaux|
+~
+Compliment|
+Compliment|
+~
+ELECTRONIC COMPONENTS|
+COMPOSANTS ELECTRONIQUES|
+~
+Electronic Components|
+Composants électroniques|
+~
+COMPETITORS|
+CONCURRENTS|
+~
+Confidential|
+Confidentiel|
+~
+Confirm|
+Confirmer|
+~
+Comfort|
+Confort|
+~
+Frozen|
+Congelé|
+~
+Conservative|
+Conservateur|
+~
+Handheld Game Console|
+Console portable|
+~
+HANDHELD GAME CONSOLE|
+CONSOLE PORTABLE|
+~
+Fast build is now enabled|
+Construction rapide activée|
+~
+Fast build is now disabled|
+Construction rapide désactivée|
+~
+BUILD|
+CONSTRUIRE|
+~
+Continue|
+Continuer|
+~
+Continue Game|
+Continuer la partie|
+~
+Cookies|
+Cookies|
+~
+COOKIES|
+COOKIES|
+~
+COSMETIC|
+COSMETIQUE|
+~
+COSMETICS|
+COSMETIQUES|
+~
+Cosmetics|
+Cosmétiques|
+~
+Cotton|
+Coton|
+~
+Color|
+Couleur|
+~
+CORPORATE COLOR|
+Couleur de la société|
+~
+Cost|
+Coût|
+~
+Freight Cost|
+Coût de frais|
+~
+Advertising Cost (CPM)|
+Coût de la publicité (mensuel)|
+~
+Cost+Freight|
+Coût+FdP|
+~
+Building costs:|
+Coûts de construction|
+~
+CPI|
+CPI|
+~
+CPU|
+CPU|
+~
+Creating a New Game . . . . .|
+Création d'une nouvelle partie . . . . .|
+~
+Credits|
+Crédits|
+~
+Create|
+Créer|
+~
+Crop|
+Culture|
+~
+Cursor|
+Curseur|
+~
+Do you agree?|
+D'accord ?|
+~
+in|
+dans|
+~
+Game date:|
+Date du jeu:|
+~
+File date:|
+Date:|
+~
+from|
+de|
+~
+December|
+Décembre|
+~
+CHALLENGE GAME|
+DEFIS|
+~
+Challenge Game|
+Défis|
+~
+Degree (0-100)|
+Degré|
+~
+Delegate|
+Déléguer|
+~
+Demand|
+Demande|
+~
+Demand Bonus|
+Demande (bonus)|
+~
+Ask Salary Raise|
+Demander une augmentation de salaire|
+~
+Demolish this firm|
+Démolir cette usine|
+~
+Demolish Apartment|
+Démolir l'appartement|
+~
+Demolish the apartment and sell the land|
+Démolir l'appartement et ventre le terrain|
+~
+Demolish Commercial Building|
+Démolir l'immeuble commercial|
+~
+Demolish Firm|
+Démolir la firme|
+~
+Demolish the building and sell the land|
+démolir le bâtiment et vendre le terrain|
+~
+Demolish the mansion and sell the land|
+Démolire la maison et vendre le terrain|
+~
+FINANCE DEPARTMENT|
+DEPARTEMENT DES FINANCES|
+~
+Finance Department|
+Département des finances|
+~
+HUMAN RESOURCES DEPARTMENT|
+DEPARTEMENT DES RESSORCES HUMAINES|
+~
+Human Resources Department|
+Département des Ressources Humaines|
+~
+Advertising Expense|
+Dépense publicitaire|
+~
+Advertising & PR Expense|
+Dépense publicitaire & RP|
+~
+EXPENSES|
+DEPENSES|
+~
+Expenses|
+Dépenses|
+~
+Description|
+Description|
+~
+Description of the saved game:|
+Description de la partie sauvée|
+~
+DESSERT|
+DESSERT|
+~
+Detailed|
+Détaillé|
+~
+Detail|
+Détails|
+~
+Corporate Details|
+Détails de la société|
+~
+DETERGENT|
+DETERGENT|
+~
+Detergent|
+Détergent|
+~
+Development|
+Développement|
+~
+Difficulty:|
+Difficulté|
+~
+Normal Difficulty. Enjoyable for Most Players.|
+Difficulté normale. Jouable pour la plupart des joueurs.|
+~
+Chief Operating Officer|
+Directeur d'Exploitation|
+~
+Chief operating officer|
+Directeur d'Exploitation|
+~
+Chief Operating Officer of|
+Directeur d'Exploitation de|
+~
+Chief Marketing Officer|
+Directeur Marketing|
+~
+Chief Marketing Officer of|
+Directeur Marketing de|
+~
+Chief Technical Officer|
+Directeur Recherche & Développement|
+~
+Chief Technical Officer of|
+Directeur Recherche & Développement de|
+~
+Available|
+Disponible|
+~
+Distance|
+Distance|
+~
+Diversified|
+Diversifié|
+~
+Dividend Paid|
+Dividende payé|
+~
+Goal Industries - Goals of Industry Dominance|
+Domination dans les secteurs suivants|
+~
+Donations|
+Donations|
+~
+Double-click here to view the product detail report.|
+Double-clic ici pour voir le rapport détaillé du produit|
+~
+No. of Years|
+Durée (ans)|
+~
+Number of Game Years|
+Durée d'année|
+~
+Fail Loading Game|
+Echec du chargement|
+~
+Home Appliances|
+Electoménager|
+~
+Employment|
+Embauche|
+~
+Employee|
+Employé|
+~
+Employees|
+Employés|
+~
+Bank Loans|
+Emprunts bancaires|
+~
+Crop Growing|
+en cultivation|
+~
+Developing|
+En développement|
+~
+Remove|
+Enlever|
+~
+Remove All|
+Enlever tout|
+~
+Record|
+Enregistrement|
+~
+ENVIRONMENT|
+ENVIRONNEMENT|
+~
+Convenience Store|
+Epicerie|
+~
+Sport Equipement|
+Equipement de sport|
+~
+Error creating profile|
+Erreur lors de la création du profil|
+~
+Are you Certain that you wish to delete this person from the list?|
+Êtes-vous certain de vouloir supprimer cette personne de la liste ?|
+~
+Declare Bankruptcy, ARE YOU SURE ?|
+Êtes-vous sûr de vouloir déclarer la faillite ?|
+~
+Random Events|
+Evènements Aléatoire|
+~
+Expertise|
+Expertise|
+~
+Explored|
+Exploré|
+~
+Manufacturing|
+Fabrication|
+~
+EYE SHADOW|
+FARD A PAUPIERES|
+~
+Eye Shadow|
+Fard à paupières|
+~
+Flour|
+Farine|
+~
+FLOUR|
+FARINE|
+~
+Farm|
+Ferme |
+~
+Farm - Large|
+Ferme - Grand|
+~
+Farm - Medium|
+Ferme - Moyen|
+~
+Close|
+Fermer|
+~
+CLOSE|
+FERMER|
+~
+Fertile|
+Fertilisant|
+~
+February|
+Février|
+~
+Flax Fiber|
+Fibre de lin|
+~
+FLAX FIBER|
+FIBRE DE LIN|
+~
+Financials|
+Financiers|
+~
+Firm|
+Firme|
+~
+Firms|
+Firmes|
+~
+Function:|
+Fonction|
+~
+Function: Issusing new shares|
+Fonction: Dégager de nouvelles actions|
+~
+Function: Trading stocks|
+Fonction: Echanges boursières|
+~
+Function: Borrowing bank loans|
+Fonction: Emprunter à la banquer|
+~
+Function: Advertising your products|
+Fonction: Faire la publicité de vos produits|
+~
+Function: Provide information|
+Fonction: Fournir des informations|
+~
+Player's Wealth ($million)|
+Fortune du joueur ($million)|
+~
+Freight Charge|
+Frais de charge|
+~
+Daily Frequency|
+Fréquence journalière|
+~
+Frequent|
+Fréquent|
+~
+AI Friendly Merger|
+Fusion des concurrents|
+~
+Cakes|
+Gâteaux|
+~
+CAKES|
+GÂTEAUX|
+~
+Huge|
+Gigantesque|
+~
+Cold|
+Glace|
+~
+Ice Cream|
+Glace|
+~
+ICE CREAM|
+GLACE|
+~
+Government|
+Gouvernement|
+~
+Department Stores|
+Grand Magasin|
+~
+Grand strategy plan|
+Grand plan de stratégie|
+~
+Graphs 1|
+Graph 1|
+~
+Graphs 2|
+Graph 2|
+~
+Guide|
+Guide|
+~
+Farmer's Guide|
+Guide du fermier|
+~
+Apparel|
+Habillement|
+~
+High|
+Haut|
+~
+Coconut Oil|
+Huile de noix de coco|
+~
+COCONUT OIL|
+HUILE DE NOIX DE COCO|
+~
+Human|
+Humain|
+~
+Humans|
+Humains|
+~
+Ignore|
+Ignorer|
+~
+Commercial Building|
+Immeuble commerciale|
+~
+Real Estate|
+Immobilier|
+~
+Constant Import Supply|
+Importation constante|
+~
+IMPORTS|
+IMPORTS|
+~
+Cannot purchase the stock|
+Impossible d'acheter des actions|
 ~
 Cannot purchase the apartment|
 Impossible d'acheter l'appartement|
@@ -352,482 +982,71 @@ Impossible d'acheter la firme|
 Cannot purchase the mansion|
 Impossible d'acheter la maison|
 ~
-Cannot purchase the stock|
-Impossible d'acheter des actions|
-~
 Cannot purchase the technology|
 Impossible d'acheter la technologie|
 ~
-CAR|
-VOITURE|
+Cannot join session|
+Impossible de rejoindre la session|
 ~
-Car|
-Voiture|
+Printer|
+Imprimante|
 ~
-Car Body|
-Carrosserie|
+PRINTER|
+IMPRIMANTE|
 ~
-CAR BODY|
-CARROSSERIE|
+Industry|
+Industrie|
 ~
-Career|
-Carrière|
+Industrial|
+Industriel|
 ~
-Cash|
-Argent|
+Industries|
+Industries|
 ~
-CASH|
-ARGENT|
+Dominated Industries|
+Industries dominées|
 ~
-Cash:|
-Argent:|
-~
-Cattle|
-Bétail|
-~
-Ceases.|
-Cesse.|
-~
-Central Bank Attitude|
-Attitude de la Banque Centrale|
-~
-Central Bank Policy|
-Politique de la Banque Centrale|
-~
-CEO|
-PDG|
-~
-CEO & Chairman|
-PDG & Actionnaire majoritaire|
-~
-CEREAL BAR|
-BARRE DE CEREALE|
-~
-Cereal Bar|
-Barre de céréale|
-~
-Chair|
-Chaise|
-~
-CHAIR|
-CHAISE|
-~
-Chairman|
-Actionnaire majoritaire|
-~
-Chairman & CEO|
-Actionnaire majoritaire & PDG|
-~
-Chairman and CEO|
-Actionnaire majoritaire et PDG|
-~
-CHALLENGE GAME|
-DEFIS|
-~
-Challenge Game|
-Défis|
-~
-Challenge Game Mode|
-Mode de jeu challenge|
-~
-Challenge Game Title|
-Titre du jeu challenge|
-~
-Change Internal Sale|
-Changer en vente interne|
-~
-Change Training Budget|
-Changer le budget d'entraînement|
-~
-Character|
-Personnage|
-~
-Character:|
-Personnage:|
-~
-Chart|
-Charte|
-~
-CHEAT ENABLE|
-Code activé|
-~
-Cheat Mode Enabled.|
-Mode de triche activé.|
-~
-Chewing Gum|
-Chewing-gum|
-~
-CHEWING GUM|
-CHEWING-GUM|
-~
-Chicken|
-Poulet|
-~
-Chickens|
-Poulets|
-~
-Chief Executive Officer|
-Président-Directeur Général|
-~
-Chief Executive Officer of|
-Président-Directeur Général de|
-~
-Chief Executive Officer Office|
-Bureau du Président-Directeur Général|
-~
-Chief Executive Officer's Office|
-Bureau du Président-Directeur Général|
-~
-Chief Marketing Officer|
-Directeur Marketing|
-~
-Chief Marketing Officer of|
-Directeur Marketing de|
-~
-Chief Marketing Officer's Office|
-Bureau du Directeur Marketing|
-~
-CHIEF MARKETING OFFICER'S OFFICE|
-BUREAU DU DIRECTEUR MARKETING|
-~
-Chief Operating Officer|
-Directeur d'Exploitation|
-~
-Chief operating officer|
-Directeur d'Exploitation|
-~
-Chief Operating Officer of|
-Directeur d'Exploitation de|
-~
-Chief Operating Officer's Office|
-Bureau du Directeur d'Exploitation|
-~
-CHIEF OPERATING OFFICER'S OFFICE|
-BUREAU DU DIRECTEUR D'EXPLOITATION|
-~
-Chief Technical Officer|
-Directeur Recherche & Développement|
-~
-Chief Technical Officer of|
-Directeur Recherche & Développement de|
-~
-CHIEF TECHNICAL OFFICER'S OFFICE|
-BUREAU DU DIRECTEUR RECHERCHE & DEVELOPPEMENT|
-~
-Chief Technical Officer's Office|
-Bureau du Directeur Recherche & Développement|
-~
-CHOCOLATE BAR|
-BARRE CHOCOLATEE|
-~
-Chocolate Bar|
-Barre chocolatée|
-~
-Cigarettes|
-Cigarettes|
-~
-CIGARETTES|
-CIGARETTES|
-~
-Cigars|
-Cigares|
-~
-CIGARS|
-CIGARES|
-~
-Cities|
-Villes|
-~
-Citric Acid|
-Acide citrique|
-~
-CITRIC ACID|
-ACIDE CITRIQUE|
-~
-City|
-Ville|
-~
-Clear|
-Nettoyer|
-~
-Clear Stock|
-Vider le stock|
-~
-Client|
-Client|
-~
-CLIENT LIST|
-LISTE DES CLIENTS|
-~
-Clients|
-Clients|
-~
-Close|
-Fermer|
-~
-CLOSE|
-FERMER|
-~
-COAL|
-CHARBON|
-~
-Cocoa|
-Cacao|
-~
-COCOA|
-CACAO|
-~
-Coconut|
-Noix de coco|
-~
-Coconut Oil|
-Huile de noix de coco|
-~
-COCONUT OIL|
-HUILE DE NOIX DE COCO|
-~
-Cold|
-Glace|
-~
-COLD PILLS|
-PILLULES MEDICAMENTEUX|
-~
-Cold Pills|
-Pillules médicamenteux|
-~
-Color|
-Couleur|
-~
-Comfort|
-Confort|
-~
-Commercial Building|
-Immeuble commerciale|
-~
-COMMUNICATION DEVICES|
-PERIPHERIQUE DE COMMUNICATION|
-~
-Communication Devices|
-Périphérique de communication|
-~
-Community Building|
-Bâtiments communautaires|
+Inflation|
+Inflation|
 ~
 Community Facilities|
 Infrastructures communautaires|
 ~
-Compact Kamera|
-Caméra compact|
+Instructions: How to set up a private challenge game|
+Instructions: Comment créer un défi privé|
 ~
-COMPACT KAMERA|
-Caméra compact|
+Inventory|
+Inventaire|
 ~
-Competence of Local Competitors|
-Compétence des concurrents locaux|
+Inverse|
+Inverse|
 ~
-Competitor Advantage|
-Avantage des concurrents|
+Independent Investor|
+Investisseur indépendant|
 ~
-Competitor Aggressiveness|
-Agressivité des concurrents|
+Never|
+Jamais|
 ~
-Competitor Expertise Level|
-Niveau d'Expertise des concurrents|
+I manage this firm myself|
+Je gère cette firme moi-meme|
 ~
-Competitor Start-up Capital|
-Capital de départ des concurrents|
+I am the|
+Je suis le|
 ~
-COMPETITORS|
-CONCURRENTS|
+I will manage this firm myself|
+Je vais gérer cette firme moi-même|
 ~
-Compliment|
-Compliment|
+I will manage all of of my firms|
+Je vais gérer tout|
 ~
-Computer|
-Ordinateur|
+Private Challenge Games|
+Jeux challenge privés|
 ~
-Computer Store|
-Magasin multimédia|
+Public Challenge Games|
+Jeux challenge publics|
 ~
-Computer's Aggressiveness|
-Aggressivité|
-~
-Computer's Treasure|
-Trésorerie|
-~
-Confidential|
-Confidentiel|
-~
-Confirm|
-Confirmer|
-~
-Conservative|
-Conservateur|
-~
-Constant Import Supply|
-Importation constante|
-~
-Consumer Goods|
-Biens consommés|
-~
-Consumption of Reserve|
-Réserve|
-~
-Content Quality|
-Qualité|
-~
-Content Volume|
-Volume|
-~
-Continue|
-Continuer|
-~
-Continue Game|
-Continuer la partie|
-~
-Controlled Share|
-Part contrôlé|
-~
-Convenience Store|
-Epicerie|
-~
-Cookies|
-Cookies|
-~
-COOKIES|
-COOKIES|
-~
-Cool|
-Bien|
-~
-Corn|
-Maïs|
-~
-CORN|
-MAÏS|
-~
-Corn Syrup|
-Sirop de maïs|
-~
-CORN SYRUP|
-Sirop de maïs|
-~
-Corporate|
-Société|
-~
-Corporate Balance Sheet|
-Bilan financier de la société|
-~
-CORPORATE COLOR|
-Couleur de la société|
-~
-Corporate Details|
-Détails de la société|
-~
-Corporate Income Statement|
-Situation de revenus|
-~
-CORPORATE LOGO|
-LOGO|
-~
-Corporation Name|
-Nom Corporation|
-~
-COSMETIC|
-COSMETIQUE|
-~
-Cosmetic Store|
-Magasin de cosmétique|
-~
-COSMETICS|
-COSMETIQUES|
-~
-Cosmetics|
-Cosmétiques|
-~
-Cost|
-Coût|
-~
-Cost of Sales|
-Prix|
-~
-Cost+Freight|
-Coût+FdP|
-~
-Cotton|
-Coton|
-~
-Cough Syrup|
-Sirop contre toux|
-~
-COUGH SYRUP|
-SIROP CONTRE TOUX|
-~
-CPI|
-CPI|
-~
-CPU|
-CPU|
-~
-Create|
-Créer|
-~
-Creating a New Game . . . . .|
-Création d'une nouvelle partie . . . . .|
-~
-Credit Limit|
-Limite du Crédit|
-~
-Credits|
-Crédits|
-~
-Crop|
-Culture|
-~
-Crop Growing|
-en cultivation|
-~
-Crop Name|
-Nom de la culture|
-~
-CURRENT|
-ACTUEL|
-~
-Current advertising pricing (Cost per thousand)|
-Prix actuel de la publicité (pour 100)|
-~
-Current advertising pricing (CPM)|
-Prix actuel (mensuel)|
-~
-Current Dividend Payout Ratio:|
-Ratio Actuel du dividende|
-~
-Current Month|
-Mois actuel|
-~
-Current Product|
-Produit actuel|
-~
-Current Stock Price|
-Prix de l'action|
-~
-Current Tech.|
-Technologie actuel|
-~
-Cursor|
-Curseur|
-~
-Custom|
-Personnaliser|
-~
-D1etail Report|
-Rapport détails|
-~
-Daily Ad. Freq.|
-Publicité par jour|
-~
-Daily Frequency|
-Fréquence journalière|
+Toy|
+Jouet|
 ~
 Day|
 Jour|
@@ -835,17 +1054,650 @@ Jour|
 Days since last successful training|
 Jours passés depuis les derniers stages|
 ~
-December|
-Décembre|
+Grape Juice|
+Jus de raisin|
 ~
-Declare Bankruptcy, ARE YOU SURE ?|
-Êtes-vous sûr de vouloir déclarer la faillite ?|
+GRAPE JUICE|
+JUS DE RAISIN|
 ~
-Degree (0-100)|
-Degré|
+Credit Limit|
+Limite du Crédit|
 ~
-Delegate|
-Déléguer|
+Flax|
+Lin|
+~
+FLAX|
+LIN|
+~
+CLIENT LIST|
+LISTE DES CLIENTS|
+~
+Bed|
+Lit|
+~
+CORPORATE LOGO|
+LOGO|
+~
+Bath Lotion|
+Lotion de bain|
+~
+Footwear Store|
+Magasin de chaussure|
+~
+Cosmetic Store|
+Magasin de cosmétique|
+~
+Furniture Store|
+Magasin de meubles|
+~
+Apparel Store|
+Magasin de vêtements|
+~
+Hardware Store|
+Magasin Hardware|
+~
+Computer Store|
+Magasin multimédia|
+~
+Corn|
+Maïs|
+~
+CORN|
+MAÏS|
+~
+Operating Profit Margin|
+Marge d'exploitation|
+~
+Leather Goods|
+Maroquinerie|
+~
+Bad|
+Mauvais|
+~
+Media|
+Média|
+~
+DRUGS|
+MEDICAMENTS|
+~
+Drugs|
+Médicaments|
+~
+Ranking Method|
+Méhode de classement|
+~
+Espionage Methodologies|
+Méthodes d'espionnage|
+~
+Furniture|
+Meuble|
+~
+FURNITURE|
+MEUBLE|
+~
+billion|
+milliard|
+~
+billion x 10|
+milliard x 10|
+~
+billion x 100|
+milliard x 100|
+~
+Challenge Game Mode|
+Mode de jeu challenge|
+~
+Cheat Mode Enabled.|
+Mode de triche activé.|
+~
+Moderate|
+Modéré|
+~
+Current Month|
+Mois actuel|
+~
+Harvesting Month|
+Mois de récolte|
+~
+Dominance|
+Monopole|
+~
+Elegant Watch|
+Montre de luxe|
+~
+ELEGANT WATCH|
+MONTRE DE LUXE|
+~
+Show Competitor Trade Secrets|
+Montrer les secrets des concurrents|
+~
+Watch|
+Montres|
+~
+Engine|
+Moteur|
+~
+ENGINE|
+MOTEUR|
+~
+Average|
+Moyenne|
+~
+Don't Show Tips|
+Ne pas montrer les astuces|
+~
+Cannot create session|
+Ne peut créer la session|
+~
+Cannot create player|
+Ne peut créer le joueur|
+~
+Cannot be sold in|
+Ne peut être vendu à|
+~
+Cannot be sold in:|
+Ne peut être vendu à:|
+~
+Cannot connect to lobby|
+Ne peut se connecter chez l'hôte|
+~
+Cannot delete this slot|
+Ne peut supprimer cette place|
+~
+Clear|
+Nettoyer|
+~
+Neutral|
+Neutre|
+~
+Difficulty Level|
+Niv. de difficulté|
+~
+Competitor Expertise Level|
+Niveau d'Expertise des concurrents|
+~
+Inflation Strength|
+Niveau d'inflation|
+~
+Coconut|
+Noix de coco|
+~
+Corporation Name|
+Nom Corporation|
+~
+Crop Name|
+Nom de la culture|
+~
+File name:|
+Nom:|
+~
+No. of Employees|
+Nombre d'employés|
+~
+No. of Product Classes Being Produced|
+Nombre de classe de produits fabriqués|
+~
+Number of Competitors|
+Nombre de concurrents|
+~
+Number of Seaports Importing Consumer Goods per City|
+Nombre de ports importants des biens de consomation par ville|
+~
+Number of Seaports Importing Industrial Goods per City|
+Nombre de ports importants des matières premières par ville|
+~
+No. of Controlled Companies|
+Nombre de sociétés contrôlées par le joueur|
+~
+No. of Product Types Being Produced|
+Nombre de type de produits fabriqués|
+~
+Number of Cities|
+Nombre de Villes|
+~
+No|
+Non|
+~
+Normal|
+Normal|
+~
+Food|
+Nourriture|
+~
+FOOD|
+NOURRITURE|
+~
+NEW SINGLE-PLAYER GAME|
+NOUVEAU JEU SOLO|
+~
+New Player|
+Nouveau joueur|
+~
+New Price|
+Nouveau prix|
+~
+New Game|
+Nouvelle partie|
+~
+Empty Game Slot|
+Nouvelle sauvegarde|
+~
+New City|
+Nouvelle ville|
+~
+Display News|
+Nouvelles|
+~
+NEWS|
+NOUVELLES|
+~
+November|
+Novembre|
+~
+GOAL|
+OBJECTIF|
+~
+Goal|
+Objectif|
+~
+Included products|
+Objectif exclus|
+~
+Goal Products - Goals of Product Market Dominance|
+Objectif produit - Objectif de secteur en monopole|
+~
+GOALS|
+OBJECTIFS|
+~
+Excluded products|
+Objectifs inclus|
+~
+Goals of the Player's Own Corporation|
+Objectifs pour la société du joueur|
+~
+Goals of the Player's Own Corporation ($million)|
+Objectifs pour la société du joueur ($million)|
+~
+Goals of Companies Controlled by the Player ($million)|
+Objectifs pour les sociétés sous contrôle du joueur ($million)|
+~
+October|
+Octobre|
+~
+Eggs|
+oeufs|
+~
+EGGS|
+OEUFS|
+~
+Off|
+Off|
+~
+Built with funds donated by:|
+Offert par:|
+~
+Done|
+OK|
+~
+On|
+On|
+~
+GAME OPTIONS|
+OPTIONS|
+~
+Options|
+Options|
+~
+Computer|
+Ordinateur|
+~
+Forget it!|
+Oubliez-ça!|
+~
+Yes|
+Oui|
+~
+C.E.O.|
+P.D.G.|
+~
+C.E.O. of|
+P.D.G. de|
+~
+Bread|
+Pain|
+~
+Hall of Fame|
+Palmarès|
+~
+Paper|
+Papier|
+~
+Reset Goals|
+Par défaut|
+~
+Occasional|
+Parfois|
+~
+PARFUME|
+PARFUM|
+~
+Controlled Share|
+Part contrôlé|
+~
+CEO|
+PDG|
+~
+CEO & Chairman|
+PDG & Actionnaire majoritaire|
+~
+COMMUNICATION DEVICES|
+PERIPHERIQUE DE COMMUNICATION|
+~
+Communication Devices|
+Périphérique de communication|
+~
+Custom|
+Perso.|
+~
+Character|
+Personnage|
+~
+Character:|
+Personnage:|
+~
+Technology Disruption|
+Perturbation Technologique|
+~
+Few|
+Peu|
+~
+Can be sold in:|
+Peut être vendu à:|
+~
+Drug Store|
+Pharmacie|
+~
+PHOTO|
+Photo|
+~
+Photography products|
+Photographie|
+~
+COLD PILLS|
+PILLULES MEDICAMENTEUX|
+~
+Cold Pills|
+Pillules médicamenteux|
+~
+Plastic|
+Plastique|
+~
+Employment Policy|
+Politique d'Emploi|
+~
+Central Bank Policy|
+Politique de la Banque Centrale|
+~
+Population|
+Population|
+~
+Population:|
+Population :|
+~
+FROZEN PORK|
+PORC CONGELE|
+~
+Frozen Pork|
+Porc congelé|
+~
+Seaport|
+Port|
+~
+Chicken|
+Poulet|
+~
+FROZEN CHICKEN|
+POULET CONGELE|
+~
+Frozen Chicken|
+Poulet Congelé|
+~
+Chickens|
+Poulets|
+~
+DIFFICULTY RATING|
+Pourcentage de difficulté|
+~
+near|
+près|
+~
+Chief Executive Officer|
+Président-Directeur Général|
+~
+Chief Executive Officer of|
+Président-Directeur Général de|
+~
+Cost of Sales|
+Prix|
+~
+Price|
+Prix|
+~
+Current advertising pricing (CPM)|
+Prix actuel (mensuel)|
+~
+Current advertising pricing (Cost per thousand)|
+Prix actuel de la publicité (pour 100)|
+~
+Current Stock Price|
+Prix de l'action|
+~
+Advertising cost (Cost per Thousand)|
+Prix de la publicité (coût pour 100)|
+~
+Current Product|
+Produit actuel|
+~
+Electonic Products|
+Produit électonique|
+~
+Household Products|
+Produit ménager|
+~
+Products|
+Produits|
+~
+Body Care Products|
+Produits Corporels|
+~
+Dominated Products|
+Produits dominés|
+~
+ELECTRONIC PRODUCTS|
+PRODUITS ELECTRONIQUE|
+~
+Electronic Products|
+Produits électroniques|
+~
+NET PROFIT|
+PROFIT NET|
+~
+Net Profit|
+Profit net|
+~
+Total Profit|
+Profit total|
+~
+Ownership|
+Propriétaire|
+~
+Owned by Government|
+Propriété du gouvernement|
+~
+Advertising|
+Publicité|
+~
+Daily Ad. Freq.|
+Publicité par jour|
+~
+Advertise|
+Publier|
+~
+Oil Well|
+Puit de pétrole|
+~
+Content Quality|
+Qualité|
+~
+Import Quality|
+Qualité des importations|
+~
+Grapes|
+Raisins|
+~
+GRAPES|
+RAISINS|
+~
+D1etail Report|
+Rapport détails|
+~
+Financial Report|
+Rapport financier|
+~
+Seldom|
+Rarement|
+~
+Current Dividend Payout Ratio:|
+Ratio Actuel du dividende|
+~
+Macro Economy Realism|
+Réalisme Macro-Economique|
+~
+Discount|
+Réduction|
+~
+Reduced|
+Réduit|
+~
+Business Relations|
+Relations commerciales|
+~
+Return on Equity|
+Rendement des capitaux propres|
+~
+Hire Chief Operating Officer|
+Renvoyer le directeur d'exploitation|
+~
+Hire Chief Operating Offier|
+Renvoyer le directeur d'exploitation|
+~
+Hire Chief Marketing Officer|
+Renvoyer le directeur marketing|
+~
+Hire Chief Technical Officer|
+Renvoyer le directeur Recherche & Developpement|
+~
+Fire!|
+Renvoyer!|
+~
+Consumption of Reserve|
+Réserve|
+~
+Natural Resource|
+Ressource naturelle|
+~
+Natural Resources at Start|
+Ressource naturelle au départ|
+~
+Back|
+Retour|
+~
+back|
+retour|
+~
+Annual return on investment:|
+Retour sur investissement annuel|
+~
+Annual Revenue|
+Revenu annuel|
+~
+Annual Revenue of Companies Under Your Control|
+Revenu annuel des compagnies sous votre contrôle|
+~
+Industry Revenue|
+Revenu industriel|
+~
+Product Revenue|
+Revenu produit|
+~
+Total Revenue|
+Revenu total|
+~
+Annual Revenue of Your Corporation|
+Revenue annuel de votre société|
+~
+Firm Revenue|
+Revenue de la firme|
+~
+Annual Salary|
+Salaire annuel|
+~
+Annual Salary: |
+Salaire annuel:|
+~
+Score|
+Score|
+~
+Raw Material Production|
+Secteur primaire|
+~
+Excluded Industries|
+Secteurs exclus|
+~
+Included Industries|
+Secteurs inclus|
+~
+Cough Syrup|
+Sirop contre toux|
+~
+COUGH SYRUP|
+SIROP CONTRE TOUX|
+~
+Corn Syrup|
+Sirop de maïs|
+~
+CORN SYRUP|
+Sirop de maïs|
+~
+Firm Income Statement|
+Situation de revenue de la firme|
+~
+Corporate Income Statement|
+Situation de revenus|
+~
+Income Statement|
+Situation de revenus|
+~
+Economic State|
+Situation économique|
+~
+Camera Phone|
+Smartphone|
+~
+CAMERA PHONE|
+SMARTPHONE|
+~
+Corporate|
+Société|
+~
+Stadium|
+Stade|
+~
+TV Station|
+Station de TV|
+~
+Great|
+Super|
 ~
 Delete|
 Supprimer|
@@ -856,164 +1708,20 @@ SUPPRIMER|
 Delete the current plan, confirm ?|
 Supprimer le plan actuel ?|
 ~
-Demand|
-Demande|
+HI-FI SYSTEM|
+SYSTEME HI-FI|
 ~
-Demand Bonus|
-Demande (bonus)|
+Hi-fi System|
+Système hi-fi|
 ~
-Demo Version|
-Version démo|
+Tobacco Products|
+Tabac|
 ~
-Demolish Apartment|
-Démolir l'appartement|
+Building Size|
+Taille du bâtiment|
 ~
-Demolish Commercial Building|
-Démolir l'immeuble commercial|
-~
-Demolish Firm|
-Démolir la firme|
-~
-Demolish the apartment and sell the land|
-Démolir l'appartement et ventre le terrain|
-~
-Demolish the building and sell the land|
-démolir le bâtiment et vendre le terrain|
-~
-Demolish the mansion and sell the land|
-Démolire la maison et vendre le terrain|
-~
-Demolish this firm|
-Démolir cette usine|
-~
-Department Stores|
-Grand Magasin|
-~
-Description|
-Description|
-~
-Description of the saved game:|
-Description de la partie sauvée|
-~
-DESSERT|
-DESSERT|
-~
-Detail|
-Détails|
-~
-Detailed|
-Détaillé|
-~
-DETERGENT|
-DETERGENT|
-~
-Detergent|
-Détergent|
-~
-Developing|
-En développement|
-~
-Development|
-Développement|
-~
-Difficulty Level|
-Niveau de difficulté|
-~
-DIFFICULTY RATING|
-Pourcentage de difficulté|
-~
-Difficulty:|
-Difficulté|
-~
-DIGITAL CAMERA|
-CAMERA NUMERIQUE|
-~
-Digital Camera|
-Caméra numérique|
-~
-Discount|
-Réduction|
-~
-Display News|
-Nouvelles|
-~
-Distance|
-Distance|
-~
-Diversified|
-Diversifié|
-~
-Dividend Paid|
-Dividende payé|
-~
-Do you accept?|
-Vous acceptez ?|
-~
-Do you agree?|
-D'accord ?|
-~
-Do you really want to cancel this game and quit?|
-Voulez-vous vraiment quitter la partie ?|
-~
-Do you really want to quit to the Main Menu?|
-Voulez-vous vraiment revenir au menu principal ?|
-~
-Do you really want to quit to Windows?|
-Voulez-vous vraiment revenir à Windows ?|
-~
-Do you really want to restart?|
-Voulez-vous vraiment recommencer ?|
-~
-Do you really want to retire?|
-Voulez-vous vraiment abandonner ?|
-~
-Do you really want to retreat?|
-Voulez-vous vraiment prendre la retraite ?|
-~
-Do you really want to win this game by cheating?|
-Voulez-vous vraiment gagner cette partie en trichant ?|
-~
-Do you want President|
-Voulez-vous présider ?|
-~
-Do you want to continue to stay in the game?|
-Voulez-vous continuer|
-~
-Do you want to manage all of your firms yourself?|
-Voulez-vous diriger toutes les usines vous-même?|
-~
-Do you want to proceed ?|
-Voulez-vous|
-~
-Dominance|
-Monopole|
-~
-Dominated Industries|
-Industries dominées|
-~
-Dominated Products|
-Produits dominés|
-~
-Don't Show Tips|
-Ne pas montrer les astuces|
-~
-Donations|
-Donations|
-~
-Done|
-OK|
-~
-Double-click here to view the product detail report.|
-Double-clic ici pour voir le rapport détaillé du produit|
-~
-Drug Store|
-Pharmacie|
-~
-DRUGS|
-MEDICAMENTS|
-~
-Drugs|
-Médicaments|
+Current Tech.|
+Technologie actuel|
 ~
 Dyestuff|
 Teinture|
@@ -1021,95 +1729,77 @@ Teinture|
 DYESTUFF|
 TEINTURE|
 ~
-Earnings Per Share|
-Bénéfice par action|
+Soccer Field|
+Terrain de foot|
 ~
-Economic State|
-Situation économique|
+Tennis Court|
+Terrain de tennis|
 ~
-Eggs|
-oeufs|
+Area.|
+Terrain.|
 ~
-EGGS|
-OEUFS|
+Challenge Game Title|
+Titre du jeu challenge|
 ~
-Electonic Products|
-Produit électonique|
+Total No. of Employees|
+Total des employés|
 ~
-ELECTRONIC COMPONENTS|
-COMPOSANTS ELECTRONIQUES|
+Always|
+Toujours|
 ~
-Electronic Components|
-Composants électroniques|
+Always enable it|
+Toujours faire ça|
 ~
-ELECTRONIC PRODUCTS|
-PRODUITS ELECTRONIQUE|
+Many|
+Tous|
 ~
-Electronic Products|
-Produits électroniques|
+All Media Firms|
+Tous les médias|
 ~
-Elegant Watch|
-Montre de luxe|
+All products|
+Tous les produits|
 ~
-ELEGANT WATCH|
-MONTRE DE LUXE|
+All|
+Tout|
 ~
-Employee|
-Employé|
+All Available|
+Tout disponible|
 ~
-Employees|
-Employés|
+Ignore All|
+Tout ignorer|
 ~
-Employment|
-Embauche|
+All companies|
+Toutes les compagnies|
 ~
-Employment Policy|
-Politique d'Emploi|
+All cities|
+Toutes les villes|
 ~
-Empty Game Slot|
-Nouvelle sauvegarde|
+All Cities|
+Toutes les villes|
 ~
-Engine|
-Moteur|
+Very Low|
+Très Bas|
 ~
-ENGINE|
-MOTEUR|
+Very High|
+Très Haut|
 ~
-ENVIRONMENT|
-ENVIRONNEMENT|
+Computer's Treasure|
+Trésorerie|
 ~
-Error creating profile|
-Erreur lors de la création du profil|
+Founded.|
+Trouvé|
 ~
-Espionage Methodologies|
-Méthodes d'espionnage|
+Retail Store Type|
+Type de magasin|
 ~
-Excluded Industries|
-Secteurs exclus|
+Building Types|
+Types de construction|
 ~
-Excluded products|
-Objectifs inclus|
+One|
+Un|
 ~
-Expansion|
-Agrandissement|
-~
-EXPENSES|
-DEPENSES|
-~
-Expenses|
-Dépenses|
-~
-Expertise|
-Expertise|
-~
-Explored|
-Exploré|
-~
-EYE SHADOW|
-FARD A PAUPIERES|
-~
-Eye Shadow|
-Fard à paupières|
+University|
+Université|
 ~
 Factory|
 Usine|
@@ -1123,500 +1813,11 @@ Usine - Moyen|
 Factory - Small|
 Usine - Petit|
 ~
-Fail Loading Game|
-Echec du chargement|
-~
-Farm|
-Ferme |
-~
-Farm - Large|
-Ferme - Grand|
-~
-Farm - Medium|
-Ferme - Moyen|
-~
-Farmer's Guide|
-Guide du fermier|
-~
-Farming|
-Agriculture|
-~
-Fast build is now disabled|
-Construction rapide désactivée|
-~
-Fast build is now enabled|
-Construction rapide activée|
-~
-February|
-Février|
-~
-Fertile|
-Fertilisant|
-~
-Few|
-Peu|
-~
-Field of Expertise|
-Champ d'expertise|
-~
-File date:|
-Date:|
-~
-File name:|
-Nom:|
-~
-FINANCE DEPARTMENT|
-DEPARTEMENT DES FINANCES|
-~
-Finance Department|
-Département des finances|
-~
-Financial Actions|
-Actions financières|
-~
-Financial Report|
-Rapport financier|
-~
-Financials|
-Financiers|
-~
-Fire!|
-Renvoyer!|
-~
-Firm|
-Firme|
-~
-Firm Income Statement|
-Situation de revenue de la firme|
-~
-Firm Profit|
-Bénéfice de la firme|
-~
-Firm Revenue|
-Revenue de la firme|
-~
-Firms|
-Firmes|
-~
-Flax|
-Lin|
-~
-FLAX|
-LIN|
-~
-Flax Fiber|
-Fibre de lin|
-~
-FLAX FIBER|
-FIBRE DE LIN|
-~
-Flour|
-Farine|
-~
-FLOUR|
-FARINE|
-~
-Fog of War|
-Brouillard de guerre|
-~
-Food|
-Nourriture|
-~
-FOOD|
-NOURRITURE|
-~
-Footwear|
-Chaussure|
-~
-Footwear Store|
-Magasin de chaussure|
-~
-Footweare|
-Chaussure|
-~
-FOOTWEARE|
-CHAUSSURE|
-~
-FOR SALE|
-A VENDRE|
-~
-For Sale|
-A vendre|
-~
-Forget it!|
-Oubliez-ça!|
-~
-Founded.|
-Trouvé|
-~
-Freight Charge|
-Frais de charge|
-~
-Freight Cost|
-Coût de frais|
-~
-Frequent|
-Fréquent|
-~
-from|
-de|
-~
-Frozen|
-Congelé|
-~
-FROZEN BEEF|
-BOEUF CONGELE|
-~
-Frozen Beef|
-Boeuf congelé|
-~
-FROZEN CHICKEN|
-POULET CONGELE|
-~
-Frozen Chicken|
-Poulet Congelé|
-~
-FROZEN LAMB|
-AGNEAU CONGELE|
-~
-Frozen Lamb|
-Agneau congelé|
-~
-FROZEN PORK|
-PORC CONGELE|
-~
-Frozen Pork|
-Porc congelé|
-~
-Function:|
-Fonction|
-~
-Function: Advertising your products|
-Fonction: Faire la publicité de vos produits|
-~
-Function: Borrowing bank loans|
-Fonction: Emprunter à la banquer|
-~
-Function: Issusing new shares|
-Fonction: Dégager de nouvelles actions|
-~
-Function: Provide information|
-Fonction: Fournir des informations|
-~
-Function: Trading stocks|
-Fonction: Echanges boursières|
-~
-Fund to be Raised|
-Augmenter les fonds|
-~
-Furniture|
-Meuble|
-~
-FURNITURE|
-MEUBLE|
-~
-Furniture Store|
-Magasin de meubles|
-~
-Game date:|
-Date du jeu:|
-~
-GAME OPTIONS|
-OPTIONS|
-~
-Game Speed|
-Vitesse de jeu|
-~
-Game Starting Year|
-Année de départ|
-~
-Glass|
-Verre|
-~
-GLASS|
-VERRE|
-~
-Go|
-Aller|
-~
-Go to Client|
-Aller au client|
-~
-Go to Media|
-Aller au média|
-~
-GOAL|
-OBJECTIF|
-~
-Goal|
-Objectif|
-~
-Goal Industries - Goals of Industry Dominance|
-Domination dans les secteurs suivants|
-~
-Goal Products - Goals of Product Market Dominance|
-Objectif produit - Objectif de secteur en monopole|
-~
-Goal Score Bonus|
-Bonus score d'objectif|
-~
-Goal Values|
-Valeurs des objectifs|
-~
-GOALS|
-OBJECTIFS|
-~
-Goals of Companies Controlled by the Player ($million)|
-Objectifs pour les sociétés sous contrôle du joueur ($million)|
-~
-Goals of the Player's Own Corporation|
-Objectifs pour la société du joueur|
-~
-Goals of the Player's Own Corporation ($million)|
-Objectifs pour la société du joueur ($million)|
-~
-High|
-Haut|
-~
-Home Appliances|
-Electoménager|
-~
-Household Products|
-Produit ménager|
-~
-Import Quality|
-Qualité des importations|
-~
-Included Industries|
-Secteurs inclus|
-~
-Included products|
-Objectif exclus|
-~
-Industries|
-Industries|
-~
-Industry Revenue|
-Revenu industriel|
-~
-Inflation|
-Inflation|
-~
-Inflation Strength|
-Niveau d'inflation|
-~
-Instructions: How to set up a private challenge game|
-Instructions: Comment créer un défi privé|
-~
-Inverse|
-Inverse|
-~
-Jewelry|
-Bijoux|
-~
-Leather Goods|
-Maroquinerie|
-~
-Livestock Products|
-Boucherie|
-~
-Load|
-Charger|
-~
-Low|
-Bas|
-~
-Macro Economy Realism|
-Réalisme Macro-Economique|
-~
-Manufacturing|
-Fabrication|
-~
-Many|
-Tous|
-~
-Market Cap|
-Capitalisation boursière|
-~
-Media|
-Média|
-~
-Moderate|
-Modéré|
-~
-Net Worth|
-Valeur nette|
-~
-Never|
-Jamais|
-~
-NEW SINGLE-PLAYER GAME|
-NOUVEAU JEU SOLO|
-~
-No|
-Non|
-~
-No. of Controlled Companies|
-Nombre de sociétés contrôlées par le joueur|
-~
-No. of Product Classes Being Produced|
-Nombre de classe de produits fabriqués|
-~
-No. of Product Types Being Produced|
-Nombre de type de produits fabriqués|
-~
-No. of Years|
-Durée (ans)|
-~
-None|
-Aucun|
-~
-Normal|
-Normal|
-~
-Number of Cities|
-Nombre de Villes|
-~
-Number of Competitors|
-Nombre de concurrents|
-~
-Number of Game Years|
-Durée d'année|
-~
-Number of Seaports Importing Consumer Goods per City|
-Nombre de ports importants des biens de consomation par ville|
-~
-Number of Seaports Importing Industrial Goods per City|
-Nombre de ports importants des matières premières par ville|
-~
-Occasional|
-Parfois|
-~
-Off|
-Off|
-~
-On|
-On|
-~
-One|
-Un|
-~
-Operating Profit Margin|
-Marge d'exploitation|
-~
-Owned by Government|
-Propriété du gouvernement|
-~
-Ownership|
-Propriétaire|
-~
-Photography products|
-Photographie|
-~
-Player's Wealth ($million)|
-Fortune du joueur ($million)|
-~
-Private Challenge Games|
-Jeux challenge privés|
-~
-Product Revenue|
-Revenu produit|
-~
-Products|
-Produits|
-~
-Public Challenge Games|
-Jeux challenge publics|
-~
-Random Events|
-Evènements Aléatoire|
-~
-Randomize|
-Aléatoire|
-~
-Ranking Method|
-Méhode de classement|
-~
-Rankings|
-Classement|
-~
-Raw Material Production|
-Secteur primaire|
-~
-Real Estate|
-Immobilier|
-~
-Record|
-Enregistrement|
-~
-Reduced|
-Réduit|
-~
-Remove|
-Enlever|
-~
-Remove All|
-Enlever tout|
-~
-Reset Goals|
-Par défaut|
-~
-Retail Store Type|
-Type de magasin|
-~
-Retailing|
-Vente|
-~
-Return on Equity|
-Rendement des capitaux propres|
-~
-Score|
-Score|
-~
-Seldom|
-Rarement|
-~
-Show Competitor Trade Secrets|
-Montrer les secrets des concurrents|
-~
-Snacks|
-Collations|
-~
-Sport Equipement|
-Equipement de sport|
-~
-Start|
-Commencer|
-~
-Stock Market|
-Bourse|
-~
 Stock Price|
 Valeur de l'action|
 ~
-Technology Disruption|
-Perturbation Technologique|
-~
-Tennis Court|
-Terrain de tennis|
-~
-Tobacco Products|
-Tabac|
-~
-Total No. of Employees|
-Total des employés|
-~
-Total Profit|
-Profit total|
-~
-Total Revenue|
-Revenu total|
-~
-Toy|
-Jouet|
-~
-TV Station|
-Station de TV|
+Net Worth|
+Valeur nette|
 ~
 Values 1|
 Valeurs 1|
@@ -1624,24 +1825,81 @@ Valeurs 1|
 Values 2|
 Valeurs 2|
 ~
-Very High|
-Très Haut|
+Goal Values|
+Valeurs des objectifs|
 ~
-Very Low|
-Très Bas|
+Retailing|
+Vente|
 ~
-Watch|
-Montres|
+Glass|
+Verre|
 ~
-Yes|
-Oui|
+GLASS|
+VERRE|
 ~
-You haven't saved any games yet.|
-Vous n'avez sauvegardé aucune partie.|
+Demo Version|
+Version démo|
+~
+Clear Stock|
+Vider le stock|
+~
+City|
+Ville|
+~
+Cities|
+Villes|
+~
+Game Speed|
+Vitesse de jeu|
+~
+CAR|
+VOITURE|
+~
+Car|
+Voiture|
+~
+Content Volume|
+Volume|
 ~
 Your Name|
 Votre Nom|
 ~
-Your Start-up Capital|
-Capital de départ|
+Do you want to proceed ?|
+Voulez-vous|
+~
+Do you want to continue to stay in the game?|
+Voulez-vous continuer|
+~
+Do you want to manage all of your firms yourself?|
+Voulez-vous diriger toutes les usines vous-même?|
+~
+Do you want President|
+Voulez-vous présider ?|
+~
+Do you really want to retire?|
+Voulez-vous vraiment abandonner ?|
+~
+Do you really want to win this game by cheating?|
+Voulez-vous vraiment gagner cette partie en trichant ?|
+~
+Do you really want to retreat?|
+Voulez-vous vraiment prendre la retraite ?|
+~
+Do you really want to cancel this game and quit?|
+Voulez-vous vraiment quitter la partie ?|
+~
+Do you really want to restart?|
+Voulez-vous vraiment recommencer ?|
+~
+Do you really want to quit to Windows?|
+Voulez-vous vraiment revenir à Windows ?|
+~
+Do you really want to quit to the Main Menu?|
+Voulez-vous vraiment revenir au menu principal ?|
+~
+Do you accept?|
+Vous acceptez ?|
+~
+You haven't saved any games yet.|
+Vous n'avez sauvegardé aucune partie.|
 ~

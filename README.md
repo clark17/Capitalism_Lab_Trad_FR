@@ -6,8 +6,8 @@ Traduction Française pour le jeu Capitalism Lab => http://www.capitalismlab.com
 Installation
 ------------
 
-Créer le sous répertoire *translate* de votre installation de Capitalism lab, puis placer les fichiers 
-*.txt* dedans et le dossier guide.
+Créer le sous répertoire *translate* dans votre installation de Capitalism lab, puis placer les fichiers 
+*.txt* et le dossier guide dedans.
 
 Contributions
 -------------

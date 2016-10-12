@@ -23,8 +23,8 @@ Personnalisation du produit
 Si cette option est activée, vous trouverez l'outil de personnalisation du produit dans le Guide du fabricant. (L'option "de perturbation de la technologie" est désactivée lorsque "Personnalisation du produit" est activé.)
 ~
 GM_CUSTR
-Product Customization Range
-Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies. 
+Produit de personnalisation Range
+Low - la personnalisation des produits applique à votre entreprise uniquement; Moyen - il applique à votre entreprise et vos filiales; Haute - il applique à toutes les entreprises. 
 ~
 GM_PRI
 Private Company (Subsidiary DLC)

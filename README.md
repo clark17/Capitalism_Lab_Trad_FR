@@ -7,7 +7,7 @@ Installation
 ------------
 
 Créer le sous répertoire *translate* dans votre installation de Capitalism lab, puis placer les fichiers 
-*.txt* et le dossier guide dedans.
+*.txt* et le dossier *guide* dedans.
 
 Contributions
 -------------

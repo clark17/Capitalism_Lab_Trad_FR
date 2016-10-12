@@ -23,32 +23,32 @@ Personnalisation du produit
 Si cette option est activée, vous trouverez l'outil de personnalisation du produit dans le Guide du fabricant. (L'option "de perturbation de la technologie" est désactivée lorsque "Personnalisation du produit" est activé.)
 ~
 GM_CUSTR
-Produit de personnalisation Range
-Low - la personnalisation des produits applique à votre entreprise uniquement; Moyen - il applique à votre entreprise et vos filiales; Haute - il applique à toutes les entreprises. 
+Produit de personnalisation Gamme
+Bas - La personnalisation des produits s'applique à votre société uniquement; Moyen - il applique à votre société et à vos filiales; Haute - il applique à toutes les sociétés. 
 ~
 GM_PRI
-Private Company (Subsidiary DLC)
-If this is set to On, your company will start as a private company.  
+Société privée (Subsidiary DLC)
+Si cette option est activée, votre société va commencer comme une entreprise privée.
 ~
 GM_SUE
-Alternative Stock Sim 
-If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits. 
+Marché boursier alternatif 
+Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation.
 ~
 GM_RE
-Random Events
-Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.
+Evénements aléatoires
+Autorise les événements comme des fléaux, maladies animales et pannes de courant géante et leurs conséquences économiques.
 ~
 GM_TEC
-Technology Disruption
-If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year. 
+Perturbation de technologie
+Si elle est activée, la perturbation de technologie se produit en permanence et toutes les variables technologiques diminuent de 10% chaque année. 
 ~
 GM_FM
-AI Friendly Merger 
-If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.
+Fusion amicale d'IA
+Si elle est activée, deux sociétés d'IA peuvent fusionner pour des conditions mutuellement avantageuses.
 ~
 GM_MER
-Macro Economy Realism 
-If it is set to High, the macro economy in the game will be simulated with a high level of realism.
+Macro économie réaliste
+Si elle est au plus élevé, la macro économie dans le jeu sera simulé avec un haut niveau de réalisme.
 ~
 GM_INF
 Inflation 

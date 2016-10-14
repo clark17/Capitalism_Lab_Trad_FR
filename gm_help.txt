@@ -52,43 +52,43 @@ Si elle est au plus élevé, la macro économie dans le jeu sera simulé avec un
 ~
 GM_INF
 Inflation 
-Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. 
+L'inflation est activée lorsque cette option est activée. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. 
 ~
 GM_INFS
-Inflation Strength 
-Select Reduced Inflation Strength if you prefer less strong inflation. As such, it will have the inflation artificially suppressed. 
+Force de l'inflation 
+Sélectionnez inflation réduite pour une moins forte inflation. En tant que telle, l'inflation sera supprimée artificiellement. 
 ~
 GM_RST
-Retail store type
-Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores. 
+Type de magasin
+Choisissez «nombreux» pour permettre les magasins spécialisés, tels que les supermarchés, les magasins de meubles, etc., ou 'Un seul' pour avoir seulement les grands magasins.
 ~
 GM_GSY
-Game starting year
-Setting a later date reduces the number of technologies you must research before you are allowed to manufacture them.
+Date de départ du jeu
+Définir une date ultérieure réduit le nombre de technologies que vous devrez rechercher avant que de les fabriquer.
 ~
 GM_NOCO
-Number of competitors
-Determine the number of rival corporations you wish to play against.
+Nombre de compétiteurs
+Détermine le nombre de compétiteurs contre lesquels vous allez jouer.
 ~
 GM_CSC
-Competitors' start-up capital
-Determine the initial cash reserves of rival corporations.
+Capital de démarrage des concurrents
+Détermine les réserves de liquidités initiales des sociétés rivales.
 ~
 GM_CA
-Competitors' Aggressiveness
-Determine the economic aggressiveness of rival corporations. 
+Agressivité des concurrents
+Détermine l'agressivité économique des sociétés rivales.
 ~
 GM_CEL
-Competitors Expertise Level
-Determine the business competence of rival corporations.
+Niveau d'expertise des concurrents
+Détermine la compétence des sociétés rivales.
 ~
 GM_CADV
-Competitors' advantage
+Avantage des compétiteurs
 `
 ~
 GM_CTS
-Show competitors' trade secrets
-If you select "Yes" you will have knowledge of your rivals' research & development projects.
+Montrer les secrets commerciaux des concurents
+Si vous selectionnez oui, vous verrez le niveau de technologie des concurents.
 ~
 GM_CLC
 Competence of local competitors

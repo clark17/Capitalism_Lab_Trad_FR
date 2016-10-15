@@ -91,15 +91,15 @@ Montrer les secrets commerciaux des concurents
 Si vous selectionnez oui, vous verrez le niveau de technologie des concurents.
 ~
 GM_CLC
-Competence of local competitors
-Determine the level of competition offered by local competitors.
+Compétence de la concurence locale
+Détermine le niveau de la concurence locale.
 ~
 GM_NOSC
-Number of seaports Importing Consumer Goods per City
+Nombre de port important des produits de consomation par ville
 A high number of consumer seaports increases the availability of goods for retail (reduces the need for extensive manufacturing).
 ~
 GM_NOSI
-Number of seaports Importing Industrial Goods per City
+Nombre de port important des marchandises industrielle par ville
 A high number of industrial seaports increases the availability of manufacturing materials (increases the manufacturing potential of the city).
 ~
 GM_SN

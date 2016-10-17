@@ -96,11 +96,11 @@ Détermine le niveau de la concurence locale.
 ~
 GM_NOSC
 Nombre de port important des produits de consomation par ville
-A high number of consumer seaports increases the availability of goods for retail (reduces the need for extensive manufacturing).
+Un grand nombre de port important des produits de consomation améliore la disponibilité des produits de consomation a vendre dans vos magasins (Réduit le besoin de fabriquer des produits).
 ~
 GM_NOSI
 Nombre de port important des marchandises industrielle par ville
-A high number of industrial seaports increases the availability of manufacturing materials (increases the manufacturing potential of the city).
+Un grand nombre de port important des marchandises industrielle améliore la disponibilité des marchandises industrielle pour vos usines (Augmente le potentiel de fabrication).
 ~
 GM_SN
 New seaports Emerge during the game

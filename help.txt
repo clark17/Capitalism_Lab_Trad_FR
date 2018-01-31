@@ -151,11 +151,11 @@ Enable Auto Apply R&D Results to your factories' manufacturing units.
 Click to enable Auto Apply R&D Results. Latest R&D results will automatically be applied to your factories without asking your permission. 
 ~
 OM_GS_A
-Very Slow
+Très Lente
 `
 ~
 OM_GS_B
-Slow
+Lente
 `
 ~
 OM_GS_C
@@ -163,28 +163,28 @@ Normal
 `
 ~
 OM_GS_D
-Fast
+Rapide
 `
 ~
 OM_GS_E
-Very Fast
+Très Rapide
 `
 ~
 OM_MU_A
-Music Off
+Musique Off
 `
 ~
 OM_MU_B
-Music On
+Musique On
 `
 ~
 OM_SE_A
-Sound Effects Off
+Effets Sonores Off
 Cliquez pour désactiver les effets sonores 
 ~
 OM_SE_B
-Sound Effects On
-Click to hear sound effects 
+Effets Sonores On
+Clique pour entendre les effets sonores
 ~
 OM_HE_A
 No Help Information
@@ -223,16 +223,16 @@ Next City (hotkey: ']')
 Click to display next city
 ~
 MMAPCM
-Close Mini Map
-Click to close Mini Map
+Fermer la Mini Carte
+Cliquer pour fermer la Mini Carte
 ~
 MMAPTB
-City Selection Mode
+Mode de Selection de Ville
 `
 ~
 MMAPTS
-Select City
-Select city and update main city view
+Selectionner Ville
+Selectionner une ville et mettre à jour la vue principale
 ~
 MMAPBF
 Firm Filter
@@ -279,8 +279,8 @@ Apartments and Commercial Buildings Display
 Click to toggle the display of apartments and commercial buildings.
 ~
 SFM_K1
-Custom Filter
-Right-click to define this custom filter. Left-click to activate this custom filter.
+Filtre Customisable
+Clic-droit pour définir la customisation du filtre. clic-gauche pour activier ce filtre customisé.
 ~
 SFM_K2
 Custom Filter
@@ -327,8 +327,8 @@ Number of Buildings
 Displays the total number of buildings based on the filter settings
 ~
 WM_CW
-Close World Map
-Close the world map window
+Fermer la Carte du Monde
+Fermer la fenêtre de carte du monde
 ~
 FE_TD
 Left-click to decrease. Right-click to decrease at a higher rate.

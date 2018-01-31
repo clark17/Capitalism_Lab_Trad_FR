@@ -1,33 +1,33 @@
 [0001]<VERS>Version %1s|
-[0011]<QUIT>Quit|
-[0012]<TRAN>Training|
+[0011]<QUIT>Quit|Quitter
+[0012]<TRAN>Training|Entrainement
 [0017]<CANC>Cancel|
-[0019]<NEWP>New Player|
-[0020]<DELP>Delete|
-[0021]<SELP>Continue|
-[0022]<PRF1>Please select your name from this list|
+[0019]<NEWP>New Player|Nouveau Joueur
+[0020]<DELP>Delete|Effacer
+[0021]<SELP>Continue|Cojntinuer
+[0022]<PRF1>Please select your name from this list|S'il vous plait selectionnez un nom dans cette liste
 [0023]<PRF2>If your name is not here, click on "New Player" below|
-[0024]<PRFN>Please enter your name|
+[0024]<PRFN>Please enter your name|S'il vous plait entrez votre nom
 [0025]<PRFD>Are you Certain that you wish to delete this person from the list?|
-[0026]<PRDY>Yes|
-[0027]<PRDN>No|
+[0026]<PRDY>Yes|Oui
+[0027]<PRDN>No|Non
 [0028]<PRED>Same profile has already been created|
 [0029]<PREI>Error creating %1s directory|
 [0030]<PREC>Error creating profile|
-[0038]<NAH_>Human|
-[0040]<DIFF>Difficulty Level|
-[0092]<RNDE>Random Events|
+[0038]<NAH_>Human|Humain
+[0040]<DIFF>Difficulty Level|Niveau de Difficulté
+[0092]<RNDE>Random Events|Evènement Aléatoire
 [0118]<RFU0>The host refuses you|
 [0119]<RFU1>Cannot join a new game session|
 [0120]<RFU2>Cannot join a load game session|
 [0121]<RFU3>You cannot join the game because the save game is different from the host|
 [0122]<RFU4>You cannot join the game because the host does not accept your game version|
 [0123]<RFU5>You cannot join the game because the session is full|
-[0148]<SV_G>Save Game|
-[0149]<0SAV>You haven't saved any games yet.|
-[0150]<SAVE>Save|
-[0152]<LOAD>Load|
-[0154]<EMGS>Empty Game Slot|
+[0148]<SV_G>Save Game|Sauvegarder la Partie
+[0149]<0SAV>You haven't saved any games yet.|Vous n'avez pas encore sauvegardé la partie
+[0150]<SAVE>Save|Sauvegarder
+[0152]<LOAD>Load|Charger
+[0154]<EMGS>Empty Game Slot|Fichier de Sauvegarde Vide
 [0155]<PAGE>page %1d/%2d|
 [0156]<-DSL>Cannot delete this slot|
 [0158]<GDAT>Game date: |
@@ -35,7 +35,7 @@
 [0160]<FNAM>File name: |
 [0161]<AOVW>It will overwrite the existing save game. Proceed ?|
 [0162]<SE-L>Cannot load in scenario editor|
-[0163]<ADLS>This save game will be deleted. Proceed ?|
+[0163]<ADLS>This save game will be deleted. Proceed ?|Vous souhaitez supprimer cette partie. Continuer?
 [0164]<DESV>Description of the save game:|
 [0165]<OUTD>Insufficient disk space ! The game is not saved.|
 [0166]<LE_O>Cannot open the save game file|
@@ -49,8 +49,8 @@
 [0175]<LOBC>Cannot get connection string from lobby|
 [0186]<STAY>Do you want to continue to stay in the game?|
 [0188]<RSTT>Restart Game|
-[0189]<RETI>Retire|
-[0190]<RETR>Retreat|
+[0189]<RETI>Retire|Prendre sa Retraite
+[0190]<RETR>Retreat|Retraite
 [0196]<ASRS>Do you really want to restart?|
 [0241]<CHEA>Cheat Mode Enabled.|
 [0257]<SVSU>Game Saved Successfully|

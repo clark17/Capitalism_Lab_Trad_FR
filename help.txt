@@ -487,11 +487,11 @@ Offer to sell this firm
 `
 ~
 IF_B
-Buy This Firm
+Acheter cette Entreprise
 `
 ~
 IF_D
-Demolish This Firm
+Démolire cette Entreprise
 `
 ~
 IF_PERS
@@ -503,7 +503,7 @@ Shortcut To Corporation Detail Report
 Click here to open the Corporation Detail Report
 ~
 IF_H
-Manager's Guide (hotkey: F3)
+Guide du Manager (raccourcis: F3)
 `
 ~
 IF_W
@@ -515,16 +515,16 @@ Layout Plan Library (hotkey: F7)
 Click to open the Layout Plan Library
 ~
 IF_F
-Financial Report (hotkey: F6)
-Click to open the Firm Financial Report
+Rapport Financier (hotkey: F6)
+Cliquez pour ouvrir le Rapport Financier
 ~
 IF_AL
-Auto Link Supplier
-Click to allow purchasing units to find their own suppliers
+Lien auto des Fournisseurs
+Cliquer pour autoriser les unités d'achat à trouver leurs propres fournisseurs
 ~
 IF_T
-Training Level
-Move the slider to alter the Training Level. With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.
+Niveau de Formation
+Déplacer le curseur Pour changer le Niveau de Formation. Avec la formation, les unités d'exploitation de votre entreprise avanceront graduellement vers le niveau superieur, donc amélioreront leur efficacité.
 ~
 IFM_S
 Offer to sell this mansion

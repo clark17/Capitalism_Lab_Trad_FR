@@ -1,33 +1,33 @@
 [0001]<VERS>Version %1s|
-[0011]<QUIT>Quit|
-[0012]<TRAN>Training|
-[0017]<CANC>Cancel|
-[0019]<NEWP>New Player|
-[0020]<DELP>Delete|
-[0021]<SELP>Continue|
-[0022]<PRF1>Please select your name from this list|
+[0011]<QUIT>Quitter|
+[0012]<TRAN>Formation|
+[0017]<CANC>Annuler|
+[0019]<NEWP>Nouveau Joueur|Nouveau Joueur
+[0020]<DELP>Effacer|
+[0021]<SELP>Cojntinuer|
+[0022]<PRF1>S'il vous plait selectionnez un nom dans cette liste|
 [0023]<PRF2>If your name is not here, click on "New Player" below|
-[0024]<PRFN>Please enter your name|
+[0024]<PRFN>S'il vous plait entrez votre nom|
 [0025]<PRFD>Are you Certain that you wish to delete this person from the list?|
-[0026]<PRDY>Yes|
-[0027]<PRDN>No|
+[0026]<PRDY>Oui|
+[0027]<PRDN>Non|
 [0028]<PRED>Same profile has already been created|
 [0029]<PREI>Error creating %1s directory|
 [0030]<PREC>Error creating profile|
-[0038]<NAH_>Human|
-[0040]<DIFF>Difficulty Level|
-[0092]<RNDE>Random Events|
+[0038]<NAH_>Human|Humain
+[0040]<DIFF>Niveau de Difficulté|
+[0092]<RNDE>Evènement Aléatoire|
 [0118]<RFU0>The host refuses you|
 [0119]<RFU1>Cannot join a new game session|
 [0120]<RFU2>Cannot join a load game session|
 [0121]<RFU3>You cannot join the game because the save game is different from the host|
 [0122]<RFU4>You cannot join the game because the host does not accept your game version|
 [0123]<RFU5>You cannot join the game because the session is full|
-[0148]<SV_G>Save Game|
-[0149]<0SAV>You haven't saved any games yet.|
-[0150]<SAVE>Save|
-[0152]<LOAD>Load|
-[0154]<EMGS>Empty Game Slot|
+[0148]<SV_G>Save Game|Sauvegarder la Partie
+[0149]<0SAV>You haven't saved any games yet.|Vous n'avez pas encore sauvegardé la partie
+[0150]<SAVE>Save|Sauvegarder
+[0152]<LOAD>Load|Charger
+[0154]<EMGS>Empty Game Slot|Fichier de Sauvegarde Vide
 [0155]<PAGE>page %1d/%2d|
 [0156]<-DSL>Cannot delete this slot|
 [0158]<GDAT>Game date: |
@@ -35,13 +35,13 @@
 [0160]<FNAM>File name: |
 [0161]<AOVW>It will overwrite the existing save game. Proceed ?|
 [0162]<SE-L>Cannot load in scenario editor|
-[0163]<ADLS>This save game will be deleted. Proceed ?|
+[0163]<ADLS>This save game will be deleted. Proceed ?|Vous souhaitez supprimer cette partie. Continuer?
 [0164]<DESV>Description of the save game:|
 [0165]<OUTD>Insufficient disk space ! The game is not saved.|
 [0166]<LE_O>Cannot open the save game file|
 [0167]<LE_H>Cannot read file header|
 [0168]<LE_P>Cannot load the save game. It was saved with a different version of Capitalism.|
-[0169]<LE_G>Load game error|
+[0169]<LE_G>Erreur de chargement de la partie|
 [0170]<SE_C>Error creating save game file.|
 [0171]<SE_H>Error creating save game header.|
 [0172]<SE_G>Error writing save game data.|
@@ -49,11 +49,11 @@
 [0175]<LOBC>Cannot get connection string from lobby|
 [0186]<STAY>Do you want to continue to stay in the game?|
 [0188]<RSTT>Restart Game|
-[0189]<RETI>Retire|
-[0190]<RETR>Retreat|
-[0196]<ASRS>Do you really want to restart?|
-[0241]<CHEA>Cheat Mode Enabled.|
-[0257]<SVSU>Game Saved Successfully|
+[0189]<RETI>Retire|Prendre sa Retraite
+[0190]<RETR>Retreat|Retraite
+[0196]<ASRS>Voulez-vous vraiment redémarrer?|
+[0241]<CHEA>Mode Triche Activé.|
+[0257]<SVSU>Partie sauvegardé avec succès|
 [0258]<WAIT>Waiting for %1s %2s|
 [0274]<GOAW>You will be victorious when you have:|
 [0286]<IPXL>Join a local area network game|
@@ -63,55 +63,55 @@
 [0298]<PRFL>Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
 [0299]<#rL0>%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
 [0300]<#?L0>#r - ranking of players|
-[0301]<#?L1>#? - help|
-[0322]<ENVI>ENVIRONMENT|
-[0323]<CMPT>COMPETITORS|
-[0324]<IMPT>PRODUCTS|
-[0325]<GOAL>GOALS|
-[0326]<CITY>Number of Cities|
-[0327]<SCAP>Your Start-up Capital|
+[0301]<#?L1>#? - Aide|
+[0322]<ENVI>ENVIRONNEMENT|
+[0323]<CMPT>CONCURENTS|
+[0324]<IMPT>PRODUITS|
+[0325]<GOAL>OBJECTIF|
+[0326]<CITY>Nombre de Villes|
+[0327]<SCAP>Votre Capital de départ|
 [0329]<ALLS>Stock Market|
-[0341]<NCOM>Number of Competitors|
-[0342]<CCAP>Competitor Start-up Capital|
-[0343]<CAGG>Competitor Aggressiveness|
-[0344]<COML>Competitor Expertise Level|
-[0346]<CSEC>Show Competitor Trade Secrets|
-[0347]<CCOM>Competence of Local Competitors|
-[0348]<CSEA>Seaports Importing Consumer Goods per City|
-[0349]<ISEA>Seaports Importing Industrial Goods per City|
-[0351]<ISUP>Constant Import Supply|
-[0352]<IQUA>Import Quality|
-[0460]<CCTI>Macro Economy Realism|
-[0462]<DSMI>Retail Store Type|
-[0463]<DSM1>Many|
-[0464]<DSM2>One|
-[0467]<GSYI>Game Starting Year|
+[0341]<NCOM>Nombre de Concurrents|
+[0342]<CCAP>Capital de départ des Concurrents|
+[0343]<CAGG>Agressivité des Concurrents|
+[0344]<COML>Niveau de Compétences des Concurrents|
+[0346]<CSEC>Voir les Secrets Commerciaux des Concurrents|
+[0347]<CCOM>Compétence des Concurrents Locaux|
+[0348]<CSEA>Ports d'Importation de Biens de Consommation par Ville|
+[0349]<ISEA>Ports d'Importation de Biens Industriels par Ville|
+[0351]<ISUP>Constance de fourniture des Importations|
+[0352]<IQUA>Qualité des Importations|
+[0460]<CCTI>Réalisme Macro-Economique|
+[0462]<DSMI>Type de Magasins de Détaail|
+[0463]<DSM1>Beaucoup|
+[0464]<DSM2>Un seul|
+[0467]<GSYI>Année de Démarrage de la partie|
 [0504]<AIG1>Grand strategy failed, cannot find location to build.|
-[0505]<GP41>Declare Bankruptcy, ARE YOU SURE ?|
-[0506]<GP42>Yes|
-[0507]<GP43>No|
-[0508]<IGM1>Do you really want to retire?|
-[0509]<IGM2>Yes|
-[0510]<IGM3>No|
+[0505]<GP41>Vous déclarer en faillite, ETES VOUS SUR ?|
+[0506]<GP42>Oui|
+[0507]<GP43>Non|
+[0508]<IGM1>Voulez-vous vraiment partir à la retraite?|
+[0509]<IGM2>Oui|
+[0510]<IGM3>Non|
 [0511]<IGM4>Do you really want to quit to the Main Menu?|
 [0512]<IGM5>Yes|
 [0513]<IGM6>No|
-[0514]<IGM7>Do you really want to quit to Windows?|
-[0515]<IGM8>Yes|
-[0516]<IGM9>No|
-[0517]<PR31>Yes|
-[0518]<PR32>No|
+[0514]<IGM7>Voulez vous vraiment quitter vers Windows?|
+[0515]<IGM8>Oui|
+[0516]<IGM9>Non|
+[0517]<PR31>Oui|
+[0518]<PR32>Non|
 [0519]<PLB1>The plan will replace the existing layout of the current firm. Proceed?|
 [0520]<PLB2>Delete the current plan, confirm ?|
 [0521]<PLB3>Replace the current plan with the highlighted firm's plan, confirm ?|
 [0522]<STK1>Sorry, you don't have enough cash.|
-[0531]<SYF1>Fail Loading Game|
+[0531]<SYF1>Echec du chargement de la partie|
 [0536]<CHE1>Wrong Firm|
 [0537]<CHE2>Firm can not be taken by player!!|
-[0539]<FAP2>Null|
-[0540]<FAP3>Confirm|
-[0541]<FAP4>Cancel|
-[0543]<FAP6>Sorry, you don't have enough cash.|
+[0539]<FAP2>Nul|
+[0540]<FAP3>Confirmer|
+[0541]<FAP4>Annuler|
+[0543]<FAP6>Désolé, vous n'avez plus suffisamment d'argent.|
 [0546]<AII1>Game Design Mode Warning|
 [0547]<AII2>Grand strategy plan|
 [0548]<AII3> building farm input failed.|
@@ -150,57 +150,57 @@
 [0585]<AIG1>Retail Focused|
 [0586]<AIG2>Stock Focused|
 [0587]<AIG3>Real Estate Focused|
-[0588]<AIS0>All|
-[0589]<AIS1>Retail|
+[0588]<AIS0>Tout|
+[0589]<AIS1>Commerce de détail|
 [0590]<AIS2>Stock|
 [0591]<AIS3>Real Estate|
 [0592]<CET1>Sowing Month|
 [0593]<CET2>Harvesting Month|
-[0606]<DIJ1>Supplier|
-[0607]<DIJ2>City|
+[0606]<DIJ1>Fournisseur|
+[0607]<DIJ2>Ville|
 [0608]<DIJ3>Distance|
 [0609]<DIJ4>Price|
 [0610]<DIJ5>Freight Charge|
-[0611]<DIJ6>Supply|
-[0612]<DIJ7>Demand|
-[0613]<DIJ8>Seaports|
-[0614]<DIJ9>Quality|
-[0615]<DI10>Brand|
-[0616]<DI11>OVERALL|
-[0617]<DI12>SELECT SUPPLIER|
-[0619]<DI14>Select Building Location|
-[0620]<DI15>Cancel|
+[0611]<DIJ6>Fournir|
+[0612]<DIJ7>Demande|
+[0613]<DIJ8>Port|
+[0614]<DIJ9>Qualité|
+[0615]<DI10>Marque|
+[0616]<DI11>TOTAL|
+[0617]<DI12>SELECTIONNER FOURNISSEUR|
+[0619]<DI14>Selectionner Emplacement de Construction|
+[0620]<DI15>Annuèler|
 [0621]<DI16>Ok|
-[0622]<DI17>CLIENT LIST|
-[0624]<DI19>SELECT ADVERTISING MEDIA|
-[0625]<DI20>Go to Media|
-[0626]<DI21>All products|
-[0627]<DI22>All cities|
-[0628]<DI23>All suppliers|
+[0622]<DI17>LISTE CLIENTS|
+[0624]<DI19>SELECTIONNER MEDIA|
+[0625]<DI20>Aller à Media|
+[0626]<DI21>Tous produits|
+[0627]<DI22>Toutes villes|
+[0628]<DI23>Tous fournisseurs|
 [0629]<DI24>Client|
 [0630]<DI25>Media|
-[0631]<DI26>Rating Points|
-[0632]<DI27>Advertising Cost (CPM)|
-[0633]<ECO0>Retailing|
-[0634]<ECO1>Manufacturing|
-[0635]<ECO2>Farming|
-[0637]<FAT1>Small|
-[0638]<FAT2>Medium|
-[0639]<FAT3>Large|
+[0631]<DI26>Point d'audience|
+[0632]<DI27>Cout de la publicité (CPM)|
+[0633]<ECO0>Commerce de détail|
+[0634]<ECO1>Usine|
+[0635]<ECO2>Ferme|
+[0637]<FAT1>Petit|
+[0638]<FAT2>Moyen|
+[0639]<FAT3>Grand|
 [0640]<FAT4>Demolish the apartment and sell the land|
 [0641]<FAT5>Put this apartment on sale for|
-[0642]<FAT6>Owner|
+[0642]<FAT6>Propriétaire|
 [0643]<FAT7>Annual rent per square foot|
-[0644]<FAT8>Occupancy|
+[0644]<FAT8>Taux d'occupation|
 [0645]<FAT9>You bought this Apartment at|
 [0646]<FA10>Land and Building Cost|
-[0647]<FA11>Market Value|
+[0647]<FA11>Valeur Marchande|
 [0648]<FA12>Profit Graph|
-[0649]<FA13>Past 12 months|
+[0649]<FA13>12 derniers mois|
 [0650]<FA14>Occupancy graph|
 [0651]<FA15>Put this apartment on sale|
-[0652]<FA16>Buy this apartment|
-[0653]<FA17>Offer now|
+[0652]<FA16>Acheter cet appartement|
+[0653]<FA17>Faire une offre maintenant|
 [0655]<FA19>Demolish the building and sell the land |
 [0656]<FA20>Put this building on sale for:|
 [0658]<FA22>This commercial building is for sale at|
@@ -215,13 +215,13 @@
 [0669]<FR10>Salaries Expense|
 [0670]<FR11>Operating Overhead|
 [0671]<FR12>Training|
-[0672]<FR13>Write-offs|
-[0673]<FR20>Sales Revenue|
-[0674]<FR21>Salaries Expense|
+[0672]<FR13>Pertes|
+[0673]<FR20>Revenu des Ventes|
+[0674]<FR21>Dépense des Salaires|
 [0675]<FR22>Operating Overhead|
 [0676]<FR23>Advertising & PR Expense|
-[0677]<FR24>Training|
-[0678]<FR25>Write-offs|
+[0677]<FR24>Formation|
+[0678]<FR25>Pertes|
 [0679]<FR30>Sales Revenue|
 [0680]<FR31>Salaries Expense|
 [0681]<FR32>Operating Overhead|
@@ -242,18 +242,18 @@
 [0707]<FBK6>Borrow|
 [0708]<FBK7>Repay|
 [0715]<FET1>Building Types|
-[0716]<FET2>Select|
+[0716]<FET2>Selectionner|
 [0717]<FET3>Setup:|
 [0718]<FET4>Monthly:|
 [0719]<FET5>Please select a location|
-[0721]<FET7>Land cost: |
+[0721]<FET7>Cout du Terrain: |
 [0722]<FET8>The location is occupied by residential|
 [0723]<FET9>buildings. You may acquire them for |
 [0724]<FE10>LEFT CLICK TO BUILD|
-[0725]<FE11>Natural Resource|
+[0725]<FE11>Ressources Naturelles|
 [0726]<FE12>Reserve|
-[0727]<FE13>Quality|
-[0728]<FE14>Land Cost|
+[0727]<FE13>Qualité|
+[0728]<FE14>Cout du Terrain|
 [0729]<FE15>Cannot set up here:|
 [0730]<FE16>The area does not have enough trees.|
 [0731]<FE17>The area does not have any mineral deposit.|
@@ -269,19 +269,19 @@
 [0744]<FAT5>Double-click here to view the product detail report.|
 [0745]<FAT6>Profit|
 [0746]<FAT7>Revenue|
-[0747]<FAT8>Quantity|
-[0748]<FAT9>Market Share|
-[0749]<FA10>Price|
-[0750]<FA11>Cost|
-[0751]<FA12>Price Agreement|
-[0752]<FA13>New Price|
-[0753]<FA14>Brand|
-[0754]<FA15>Quality|
-[0755]<FA16>Price|
-[0756]<FA17>Overall Rating|
-[0758]<FA19>Firm Profit|
+[0747]<FAT8>Quantité|
+[0748]<FAT9>Parts de Marché|
+[0749]<FA10>Prix|
+[0750]<FA11>Cout|
+[0751]<FA12>Prix d'accord|
+[0752]<FA13>Nouveau Prix|
+[0753]<FA14>Marque|
+[0754]<FA15>Qualité|
+[0755]<FA16>Prix|
+[0756]<FA17>Part d'Audiences|
+[0758]<FA19>Revenus de l'Entreprise|
 [0759]<FA20>Firm Revenue|
-[0761]<FA22>retail stores.|
+[0761]<FA22>Magasins de détail.|
 [0763]<FHQ1>Finance Department|
 [0764]<FHQ2>Human Resources Department|
 [0765]<FHQ3>Public Relations Department|
@@ -290,7 +290,7 @@
 [0768]<FHQ6>Chief Operating Officer's Office|
 [0769]<FHQ7>Chief Marketing Officer's Office|
 [0770]<FHQ8>Chief Technical Officer's Office|
-[0771]<FHQ9>Acquire Technology From Other Companies|
+[0771]<FHQ9>Aquérir des technologies par d'autres Sociétés|
 [0772]<FH10>Set New Dividend|
 [0773]<FH11>FINANCE DEPARTMENT|
 [0774]<FH12>Current Dividend Payout Ratio:|
@@ -304,8 +304,8 @@
 [0782]<0002>Days since last intensive training|
 [0785]<0005>Total cost|
 [0786]<0006>The Training Program has been executed|
-[0788]<0008> Employees|
-[0789]<0009> Employee|
+[0788]<0008> Employés|
+[0789]<0009> Employé|
 [0790]<0010>out of a total of|
 [0791]<0011>have gained improvements|
 [0792]<0012>has gained improvements|
@@ -356,31 +356,31 @@
 [0860]<0075>Stock Exchange|
 [0861]<0076>Revenue Graph |
 [0862]<0077>Quantity Sold Graph |
-[0863]<0078>Previous|
-[0864]<0079>Next|
+[0863]<0078>Précédent|
+[0864]<0079>Duivant|
 [0865]<0080>Go|
-[0866]<0081>Product Class: |
-[0867]<0082>Necessity Index:|
-[0868]<0083>City Total|
-[0869]<0084>One Product|
-[0870]<0085>Market Share |
+[0866]<0081>Classe du Produit: |
+[0867]<0082>Indice de nécessité:|
+[0868]<0083>Total des villes|
+[0869]<0084>Un produit|
+[0870]<0085>Parts de Marché |
 [0871]<0086>Production|
-[0872]<0087>Retail|
-[0873]<0088>Producer |
-[0874]<0089>Retailer |
-[0875]<0090>Product Quality|
-[0876]<0091>Production Quality|
+[0872]<0087>Commerce de détail|
+[0873]<0088>Producteur |
+[0874]<0089>Commercant de détail |
+[0875]<0090>Qualité du Produit|
+[0876]<0091>Qualité du Produit|
 [0877]<0092>Raw Material Quality|
-[0879]<A300>Corporate Brand|
-[0880]<A301>Range Brand|
-[0881]<A302>Unique Brand|
-[0882]<0094>Brand Strategy|
-[0883]<0095>Brand Rating|
-[0884]<0096>Brand Awareness|
-[0885]<0097>Brand Loyalty|
-[0886]<0098>Advertising Expense|
-[0887]<0099> per|
-[0891]<0103>New Price|
+[0879]<A300>Société de Marque|
+[0880]<A301>Marque de Gamme|
+[0881]<A302>Marque Unique|
+[0882]<0094>Stratégie de Marque|
+[0883]<0095>Audimat de la Marque|
+[0884]<0096>Connaissance de la Marque|
+[0885]<0097>Loyauté à la Marque|
+[0886]<0098>Dépenses de Publicité|
+[0887]<0099> par|
+[0891]<0103>Nouveau Prix|
 [0892]<0104>All companies|
 [0893]<0105>All cities|
 [0894]<0106>(Tech. unknown to you)|
@@ -390,23 +390,23 @@
 [0899]<A401>Stock Overview|
 [0900]<A402>Business Relations|
 [0901]<A403>Firm Overview|
-[0902]<0110>Buy|
+[0902]<0110>Acheter|
 [0903]<0111>Overview|
 [0904]<0112>Firms|
 [0905]<0113>Products|
 [0906]<0114>Graphs 1|
 [0907]<0115>Graphs 2|
 [0908]<0116>Stock|
-[0909]<0117>Balance Sheet|
-[0910]<0118>Income Statement|
-[0911]<0119>Technology|
-[0912]<0120>Advertising|
-[0913]<0121>Brand|
-[0914]<0122>Dominance|
-[0915]<0123>Rankings|
-[0916]<0124>All|
+[0909]<0117>Bilan|
+[0910]<0118>Compte de Résultat|
+[0911]<0119>Technologies|
+[0912]<0120>Publicité|
+[0913]<0121>Marque|
+[0914]<0122>Domination|
+[0915]<0123>Classement|
+[0916]<0124>Tous|
 [0917]<0125>Delegate|
-[0918]<0126>City|
+[0918]<0126>Ville|
 [0919]<0127>Operating Years|
 [0920]<0128>Lifetime Revenue|
 [0921]<0129>Lifetime Profit|
@@ -420,9 +420,9 @@
 [0931]<0139>Rating Points|
 [0932]<0140>Sort By Product Name|
 [0933]<0141>Sort By City Name|
-[0934]<0142>Corporate Brand|
-[0935]<0143>Range Brand|
-[0936]<0144>Unique Brand|
+[0934]<0142>Sociétés de Marques|
+[0935]<0143>Marque de Gamme|
+[0936]<0144>Marque Unique|
 [0937]<0145>A Single Brand Covers All Products|
 [0938]<0146>A Brand Covers a Range of Products|
 [0939]<0147>Each Product has a Unique Brand|
@@ -1530,9 +1530,9 @@
 [2716]<NCJ1>founded|
 [2717]<NCJ2>and serves as its|
 [2718]<NCJ3>joins|
-[2719]<NCJ4>as|
+[2719]<NCJ4>par|
 [2720]<NCJ5>becomes|
-[2721]<NCJ6>of|
+[2721]<NCJ6>de|
 [2722]<NCJ7>resigns from his job at|
 [2723]<NCJ8>resigns from her job at|
 [2724]<NCJ9>discharged by|
@@ -1541,8 +1541,8 @@
 [2727]<NCK3>loses her job as|
 [2728]<NCK4>after serving as|
 [2729]<NCK5>after serving as|
-[2730]<MTH1>month|
-[2731]<MTH2>months|
+[2730]<MTH1>mois|
+[2731]<MTH2>mois|
 [2732]<NBF1>opens an|
 [2733]<NBF2>opens a|
 [2734]<NBF3>sets up a Warehouse|
@@ -1580,8 +1580,8 @@
 [2766]<NCB2>attitude is now at the helm of the central bank.|
 [2767]<NAT1>acquires technology for|
 [2768]<NAT2>from|
-[2769]<NAT3>for|
-[2770]<NGV1>The Government|
+[2769]<NAT3>pour|
+[2770]<NGV1>Le Gouvernement|
 [2771]<NGV2>the Government|
 [2772]<NAC0>Corporation Changes Strategy|
 [2773]<NIR0>Central Bank Changes Interest Rate|

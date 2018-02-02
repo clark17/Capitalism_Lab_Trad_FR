@@ -1,26 +1,26 @@
 B_TOOL
-Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Boite à Outils
+Affichage du Menu Boite à Outils. Pressez Ctrl-T pour basculer le menu standart et le menu étendu. 
 ~
 B_MINMAP
-Mini Map (hotkey: 'M')
-Display the Mini Map
+Mini Carte (raccourcis: 'M')
+Affiche la Mini Carte
 ~
 B_WORLD
-World Map (Ctrl-W)
-Display the World Map
+Carte du Monde (Ctrl-W)
+Affiche la Carte du Monde
 ~
 B_INFO
-Information Center
-Open the Information Center screen
+Centre d'Information
+Ouvrir l'écran du Centre d'Information
 ~
 B_WATCH
-Event Tracker (hotkey: F5)
-Open the Event Tracker Window
+Journal d'Evènements (raccourcis: F5)
+Ouvrir la fenêtre du Journal d'Evènements
 ~
 B_BACK
-Back to previous firm (hotkey: q)
-Go back to the previously selected firm
+Retourner sur la précédente entreprise (raccourcis: q)
+Retourner sur la précédente entreprise séléctionnée
 ~
 B_CASH
 Your Corporation's Cash
@@ -39,15 +39,15 @@ Current Date
 This is the current game date
 ~
 T_BUILD
-Build Menu (hotkey: B)
-Click to open the Build Menu
+Menu de Construction (raccourcis: B)
+Cliquez pour ouvrir le Menu de Construction
 ~
 T_BUYLND
-Buy plots of land (hotkey: F10)
-Activate the mode for buying plots of land 
+Acheter Parcelles de Terrain (raccourcis: F10)
+Activer le mode pour acheter des parcelles de terrain
 ~
 T_SETLND
-Land-use planning (hotkey: F10)
+Plan d'Urbanisme (raccourcis: F10)
 Use this tool to restrict different areas of your city to specific uses. 
 ~
 T_GOAL 
@@ -95,36 +95,36 @@ Options Menu (hotkey: 'O')
 Display the game options menu.
 ~
 MMENUSP
-Game Speed (hotkey: '1' to '5')
-Click the speed dial to alter the game speed.
+Vitesse du Jeu (hotkey: '1' to '5')
+Cliquez sur le cadran de vitesse pour modifier la vitesse de jeu
 ~
 OM_NEWS
-News Display Option (hotkey: 'N')
-Open the News Display options screen
+Nouvelles Options d'Affichage (raccourcis: 'N')
+Ouvrir l'écran des nouvelles options d'affichage
 ~
 OM_OK
 Ok
 `
 ~
 OM_CN
-Cancel
+Annuler
 `
 ~
 OM_IS_A
-Disable Internal Sale
-Click to disable Internal Sale and allow competitors to buy your products
+Désactiver les Ventes Internes
+Cliquez pour désactiver les Ventes Internes et autoriser les concurrents à acheter vos produits
 ~
 OM_IS_B
-Enable Internal Sale
-Click to enable Internal Sale and ban competitors from buying your products
+Activer les Ventes Internes
+Cliquez pour activer les Ventes Internes et interdir aux concurrents d'acheter vos produits
 ~
 OM_AL_A
-Disable AutoLink to Supplier 
-Click to disable AutoLink to Supplier. You must select suppliers manually
+Désactiver le Lien Automatique des Fournisseur 
+Cliquez pour désactiver le Lien Automatique des Fournisseur. Vous devrez selectionn les fournisseurs manuellements
 ~
 OM_AL_B
-Enable AutoLink to Supplier 
-Click to enable AutoLink to Supplier. Your purchasing units will attempt to find a supplier
+Activer le Lien Automatique des Fournisseur 
+Cliquez pour activer le Lien Automatique des Fournisseur. Vos unités d'achat essayeront de trouver un fournisseur
 ~
 OM_TO_A
 Do not consider Tender Offers from other players. 
@@ -143,19 +143,19 @@ Consider offers from other companies for buying your technology.
 `
 ~
 OM_AR_A
-Disable Auto Apply R&D Results to your factories' manufacturing units.
-Click to disable Auto Apply R&D Results. You must apply R&D results to your factories manually. 
+Désactiver l'application automatique des résultats de R&D de vos usines' unités de fabrication.
+Cliquez pour désactiver l'application automatique des résultat de R&D Results. Vous devrez appliquer les résultats R&D de vos usines manuellement. 
 ~
 OM_AR_B
 Enable Auto Apply R&D Results to your factories' manufacturing units.
 Click to enable Auto Apply R&D Results. Latest R&D results will automatically be applied to your factories without asking your permission. 
 ~
 OM_GS_A
-Very Slow
+Très Lente
 `
 ~
 OM_GS_B
-Slow
+Lente
 `
 ~
 OM_GS_C
@@ -163,28 +163,28 @@ Normal
 `
 ~
 OM_GS_D
-Fast
+Rapide
 `
 ~
 OM_GS_E
-Very Fast
+Très Rapide
 `
 ~
 OM_MU_A
-Music Off
+Musique Off
 `
 ~
 OM_MU_B
-Music On
+Musique On
 `
 ~
 OM_SE_A
-Sound Effects Off
-Click to disable sound effects 
+Effets Sonores Off
+Cliquez pour désactiver les effets sonores 
 ~
 OM_SE_B
-Sound Effects On
-Click to hear sound effects 
+Effets Sonores On
+Clique pour entendre les effets sonores
 ~
 OM_HE_A
 No Help Information
@@ -223,16 +223,16 @@ Next City (hotkey: ']')
 Click to display next city
 ~
 MMAPCM
-Close Mini Map
-Click to close Mini Map
+Fermer la Mini Carte
+Cliquer pour fermer la Mini Carte
 ~
 MMAPTB
-City Selection Mode
+Mode de Selection de Ville
 `
 ~
 MMAPTS
-Select City
-Select city and update main city view
+Selectionner Ville
+Selectionner une ville et mettre à jour la vue principale
 ~
 MMAPBF
 Firm Filter
@@ -279,8 +279,8 @@ Apartments and Commercial Buildings Display
 Click to toggle the display of apartments and commercial buildings.
 ~
 SFM_K1
-Custom Filter
-Right-click to define this custom filter. Left-click to activate this custom filter.
+Filtre Customisable
+Clic-droit pour définir la customisation du filtre. clic-gauche pour activier ce filtre customisé.
 ~
 SFM_K2
 Custom Filter
@@ -327,8 +327,8 @@ Number of Buildings
 Displays the total number of buildings based on the filter settings
 ~
 WM_CW
-Close World Map
-Close the world map window
+Fermer la Carte du Monde
+Fermer la fenêtre de carte du monde
 ~
 FE_TD
 Left-click to decrease. Right-click to decrease at a higher rate.
@@ -487,11 +487,11 @@ Offer to sell this firm
 `
 ~
 IF_B
-Buy This Firm
+Acheter cette Entreprise
 `
 ~
 IF_D
-Demolish This Firm
+Démolire cette Entreprise
 `
 ~
 IF_PERS
@@ -503,7 +503,7 @@ Shortcut To Corporation Detail Report
 Click here to open the Corporation Detail Report
 ~
 IF_H
-Manager's Guide (hotkey: F3)
+Guide du Manager (raccourcis: F3)
 `
 ~
 IF_W
@@ -515,16 +515,16 @@ Layout Plan Library (hotkey: F7)
 Click to open the Layout Plan Library
 ~
 IF_F
-Financial Report (hotkey: F6)
-Click to open the Firm Financial Report
+Rapport Financier (hotkey: F6)
+Cliquez pour ouvrir le Rapport Financier
 ~
 IF_AL
-Auto Link Supplier
-Click to allow purchasing units to find their own suppliers
+Lien auto des Fournisseurs
+Cliquer pour autoriser les unités d'achat à trouver leurs propres fournisseurs
 ~
 IF_T
-Training Level
-Move the slider to alter the Training Level. With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.
+Niveau de Formation
+Déplacer le curseur Pour changer le Niveau de Formation. Avec la formation, les unités d'exploitation de votre entreprise avanceront graduellement vers le niveau superieur, donc amélioreront leur efficacité.
 ~
 IFM_S
 Offer to sell this mansion

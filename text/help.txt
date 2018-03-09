@@ -918,6 +918,10 @@ IFT_SD
 Product Supply and Demand Indicators 
 Yellow bar = the Supply. Orange bar = the Demand. When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.
 ~
+ISUPPLY
+Product Supply Indicator 
+It shows the percentage of the product demand at this purchasing unit is met by the supply.
+~
 U_LEVEL
 Experience Level of the Unit 
 The overall productivity and capacity of most units increase when their unit
@@ -1037,7 +1041,7 @@ Clear existing stock of this product.
 ~
 JU_020
 Toggle Internal Sale. 
-When Internal Sale is enabled, competitors cannot purchase this product from you. 
+When Internal Sale is enabled, competitors cannot purchase this product from you. If you want to enable Internal Sale by default, you can open the Option menu (hotkey: 'O') and set Default Internal Sale to Enabled. 
 ~
 JU_021
 Show Clients
@@ -1369,7 +1373,7 @@ Enable or disable the option of popping up news windows for important news.
 ~
 T_PGROW
 City Population Growth 
-A city's population growth is supported by a low employment rate, high quality of living, and sufficient supplies of new apartments.  
+A city's population growth is supported by a low employment rate, high quality of living, and sufficient supplies of new apartments. The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year. 
 ~
 T_POP
 City Population 
@@ -1520,7 +1524,7 @@ Game Speed (disabled)
 Sorry, you cannot change the game speed of the current game as it is fixed by a game script. 
 ~
 U_FUND
-Click to set the additional funding for the focused area.
+Additional funding for the focused area.
 The funding will help improve the city's competitiveness in the focused area.
 ~
 PRICE_PM
@@ -1593,7 +1597,7 @@ Only show companies that sell consumer products.
 ~
 IS_PRIV
 This is a private company. 
-`
+Click here to open the Corporation Detail Report
 ~
 IS_PUBL
 This is a public company 
@@ -1723,21 +1727,33 @@ QOL_CULT
 Culture 
 This rating is determined by the Overall Satisfaction ratings of Library, Museums, and City Halls in the city (details can be viewed on the "Public Facilities" page).
 ~
+P_OPERAT
+When this civic building is not in full operation, its operating cost is lower. 
+You are advised to set this based on the Supply/Demand index displayed at the lower part of this info window. (If the demand is high, set the operational capacity to a higher value.)
+~
 P_TRAIN
 Use the slider to set the staff training budget for this civic building. 
+`
+~
+P_TRAIN0
+The staff training budget for this civic building. 
 `
 ~
 P_FACIUP
 Use the slider to set the budget for upgrading the facilities of this civic building. 
 `
 ~
+P_FACIU0
+The budget for upgrading the facilities of this civic building. 
+`
+~
 P_SKILL
 Staff skill level 
-The staff's skill level is determined by 1) the educational level of people in this city and 2) the staff training for this civic building. 
+The staff's skill level is determined by 1) the education level of people in this city and 2) the staff training budget for this civic building. 
 ~
 P_FACILI
-Upgrade facilities
-Click here to upgrade facilities of this civic building, allowing you to provide better quality of services to the citizens. 
+Facilities Quality 
+A larger Facilities Upgrade Budget leads to higher quality of the facilities.
 ~
 P_QUALIT
 Quality of service 
@@ -1817,7 +1833,7 @@ Switch to the Business Mode to give orders on behalf of the corporation.
 ~
 APPROVAL
 Mayor Approval Rating 
-The current city's mayor approval rating. For more details, see the Cities page on the Information Center. 
+The current city's mayor approval rating. For more details, see the Cities page on the Information Center. Click here to open the Mayor report. 
 ~
 GOALACHI
 Goal Achievement Progress 
@@ -1844,7 +1860,7 @@ To search a product, simply type the first letter of the product's name.
 `
 ~
 PS_CITY 
-Toggle between showing products in the current city and showing products from all cities. 
+Select the city where the suppliers are located. 
 `
 ~
 PS_SUPP
@@ -1884,11 +1900,11 @@ Build a logging camp for processing logs into timber.
 `
 ~
 G_BCITY0
-Build a new city (disabled)
+Build a new city (size: 200x200) (disabled)
 To build a new city, first select an empty region on the map that has sufficient land mass. 
 ~
 G_BCITY1
-Build a new city. 
+Build a new city (size: 200x200). 
 `
 ~
 STK_PRIC
@@ -2133,7 +2149,7 @@ Deficit
 The amount of deficit that the current city has registered over the past 12 months. 
 ~
 PUBFINAN
-Financial report 
+Financial report (hotkey: F6)
 Toggle the display of the financial report for this public facility.
 ~
 LOWSUPTO
@@ -2152,9 +2168,49 @@ MMAPBRZ
 Land-use Plan and Business Relationship.
 Switch to this mode to show the Land-use Plan and the Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.
 ~
-PO_GLPI
-Government Land Price Index 
-This index determines the prices government sells its land and natural resource sites to corporations. 
+LANDPRIC
+Land Price Index 
+This index determines the prices that the government sells its land and natural resource sites to corporations. 
+~
+MFACTORY
+Set up your factory to manufacture this product.
+`
+~
+DEVCITY
+Whether there is a developed city at the beginning or not. The game is more challenging if you have to start from scratch without a developed city.  
+`
+~
+I_SOFT
+Hotkey: F3
+`
+~
+I_DIGIT
+Hotkey: Ctrl-D
+`
+~
+I_SGUIDE
+Hotkey: Ctrl-F
+`
+~
+SC_INFLUE
+Score component: Current Political Influence 
+For each city where you or a member of your political party is the mayor, the city's population, GDP per capita and the mayor's approval rating will determine the political influence. If you are the party's leader, each of your members' influence value will contribute 50% to yours.  
+~
+SP_INFLUE
+Score component: Past Political Influence 
+Its calculation is similar to the Current Political Influence. It is the accumulation of of all past political influence values x 50%. 
+~
+N_PGROW
+Population Growth 
+A nation's population growth is supported by a low employment rate, high quality of living, and sufficient supplies of new apartments. The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year. 
+~
+N_POP
+Population 
+This shows the nation's population changes over time. 
+~
+SURVIVAL
+Survival Mode
+Enable the survival mode if you like the challenge of building a nation from the ground up. When the Survival Mode is enabled, the options available on the New Game Settings menu will be different to reflect the new gameplay mechanism.     
 ~
 Floor1
 Select the 1st floor 
@@ -2172,4 +2228,284 @@ NewFloor
 Set up a new floor 
 `
 ~
-
+PUB_MOVE
+Relocate this building.
+`
+~
+PUB_DEL
+Demolish this building.
+`
+~
+MFTSUPP0
+Supply of this item is unavailable in the market.
+`
+~
+MFTSUPP1
+Supply of this item is available in the market.
+`
+~
+MFTFACT
+Use the Manufacturer's Guide to set up Factory Production. 
+Click here to access the special version of Manufacturer's Guide and use it to set up your factory's production layout instantly.
+~
+POTENTIA
+Potential
+The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.
+~
+MMAPMMV2
+Land Value Mode
+Click to toggle Land Value Mode - darker colors indicate high land values.
+The red dot indicates the CBD (central business district).
+~
+PO_ACIV
+Auto Adjust Operation Levels of Civic Buildings 
+When this is enabled, the computer will automatically adjust the operation levels of all of the city's civic facilities for you. It will set the operation levels based on the demands of the civic facilities.
+~
+S_RETECH
+Required Tech Achieved?
+Each type of software depends on certain tech. Your company must possess the minimum tech level required for each tech in order to create the software product. To see the details, open the Software Guide in the Information Center. 
+~
+IPLIMIT
+IP Creation 
+In the game, each player is given an ability to create one IP from scratch. You have already create an IP and therefore cannot create any further IPs. 
+~
+OM_RD_A
+Disable R&D completion notifications
+Click to disable notifications about completions of R&D projects in the Event Tracker. 
+~
+OM_RD_B
+Enable R&D completion notifications
+Click to enable notifications about completions of R&D projects in the Event Tracker. 
+~
+F_SUPPLY
+Look for better supplies
+This determines whether the AI executive should look for better supplies in retail stores, factories and warehouses. The AI will NOT change the product type when it sources new supplies. 
+~
+F_RETAIL 
+Look for better products to sell in retail stores
+This determines whether the AI executive should look for better products to sell in retail stores only. The AI may change the product types at will. 
+~
+NEWSOFT
+New software product
+Start a project for developing a new software product with a new product name. 
+~
+NEWVER
+New version
+Start a project for developing a new version of the software product that was previously completed here. 
+~
+PRICEAGR
+You have a price agreement with the supplier of this product. 
+When you sell a product that is sourced from an external supplier, if the supplier is also selling the same product in its own retail store, you will have to agree to the retail price set by the supplier. This is to prevent you from undercutting the supplier in the market. 
+~
+LOYALTY
+Empolyee loyalty 
+You can increase employee loyalty in the following ways: 1) give salary raises 2) set a higher training budget. An employee with a loyalty level of 80 or higher will not be headhunted by competitors.  
+~
+IF_ADDS
+Set up this factory for producing software products. 
+`
+~
+AUTOSOFT
+Automatically develop new versions 
+If this is enabled, it will automatically develop next versions of the software when more advanced tech has been researched. 
+~
+HIREALL
+Hire all 
+Hire team leads for all functional units connected with the current one, choosing job candidates whose requested salaries are similar to the one's you hired. 
+~
+PRIVONLY 
+Show only private companies
+Click here to toggle this filter on and off. 
+~
+G_BSCIT0
+Build a new city (size: 100X100) (disabled)
+To build a new city, first select an empty region on the map that has sufficient land mass. 
+~
+G_BSCIT1
+Build a new city (size: 100x100). 
+`
+~
+G_BCMAX
+Build a new city (disabled)
+The maximum number of cities allowed in a game has been reached. You cannot build any more new ones. 
+~
+G_BCMAXS
+Build a new city (disabled)
+You can build a maximum of 15 cities. The maximum number of cities allowed in a game has been reached. You cannot build any more new ones. 
+~
+EC_ON
+Enable eCommerce Sales 
+When you enable eCommerce sales for this firm, your eCommerce  sites will add all consumer products from this firm to its catalog. 
+~
+EC_MARK
+eCommerce Price Markup 
+Set the price markup for selling products from this firm on your eCommerce sites. (This applies to all products in this firm.)
+~
+EC_PCT
+The percentage of sales of products in this firm that are contributed by eCommerce. 
+`
+~
+AD_CPM
+Current Advertising Pricing
+The advertising pricing is measured in the cost per thousand impressions.
+~
+REACH
+Reach %
+The percentage of Internet users in all cities that visits this web.
+~ 
+GOSOFTFM
+Go to the software company that develops this software.
+`
+~
+ADV_LINK
+Replace this link with a new link to another media. 
+`
+~
+ADV_GO
+Go to this media
+`
+~
+ADV_DEL
+Delete this media link. 
+`
+~
+ADV_NEW
+Link to a media firm  
+Run advertising for the current web site on another media firm to boost up the current web site's visitor traffic.
+~
+SLOTIIMG
+Toogle Display (Hotkey: Ctrl-A)
+Toggle the display of product images on the 3x3 layout area. 
+~
+PS_FIND2
+Search for suppliers by entering any of the following:
+Product types, product classes, company names, firm names, firm descriptions, and city names. Example: enter "Computer Watch London" to search for computers and watches from suppliers in London. (Inexact search is supported.)
+~
+ECOMM_GO
+Go to your e-commerce company.
+`
+~
+HIREONE
+Hire
+Hire a team lead for the current functional unit.
+~
+HEADHUNT 
+Headhunt
+To headhunt a person, you must offer a higher salary and a signup bonus. (The more loyal the person is to his/her current employer, the higher the salary you must offer.)
+~
+EMPTRANS
+Transfer
+Transfer this employee from another company under your group to the current firm.
+~
+HEADSUBS
+Headhunt Targets Include Subsidiaries
+If this is enabled, the list of headhunt targets will include employees from your subsidiary companies. 
+~
+WTFILTER
+Internet Company Filter
+Click here to set the Corporation filter to "All" and the Firm Type filter to "Internet Company". Use the below list to limit the firm list to a specific type of Internet company. 
+~
+INET_PR
+Current Internet Pricing 
+This is the monthly subscription fee that the company charges customers for the Internet services provided. 
+~
+INET_PRX
+Next Month Internet Pricing 
+Set a new Internet monthly subscription fee that will become effective next month. 
+~
+OSRATING
+Apps Availability 
+This indicates whether there are enough application software available for this OS. This rating is calculated based on the variety of the software applications available for this OS and their quality ratings. It contributes to the OS's overall rating. 
+~
+ESPMODE
+Choose a mode for setting e-commerce prices. 
+You may set e-commerce prices individually or set a price markup percentage that applies to all products in this firm. Click this button to toggle the mode. 
+~
+RAISESAL
+Raise the salary of this team lead. 
+Note that the salary displayed here is the annual salary.
+~
+RAISEALL
+Raise the salaries of all team leads in this firm.
+Note that the salary displayed here is the annual salary.
+~
+D_PC
+Personal Computer Users
+It shows the number of personal computer users in this city.
+~
+D_PCI
+Personal Computer Users
+It shows the number of personal computer users who have access to the Internet in this city.
+~
+HIDEINAC
+Hide Inactive Software Products 
+Do not show software products that have no sales in the past 36 months.
+~
+INF_BD
+Click to set the monthly budget for upgrading infrastructure.  
+The maximum number of subscribers that your telecom can serve is limited by its infrastructure capacity. Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized. 
+~
+LOCAL 
+Local Competitors 
+There are local competitors in each city. Although their firms are not shown in the game map, they compete directly with the corporations. The white portion of the pie charts represents the combined market share of all local competitors in the city. Their product ratings are shown here. 
+~
+CONCERNS
+Consumer Concerns 
+When a consumer buys a product, the product's price, quality, and brand are considered. However, the relative concern consumers place on these factors varies from product to product. A higher value means that consumers are more concerned about that aspect when making a purchase decision. 
+~
+MFT_INPU
+Input
+It indicates the quantity of the input required for the production and how much it contributes to the finished product's quality. 
+~
+BRAND_ST
+Switch Brand Strategy
+You can switch your corporation's brand strategy here by clicking one of the below brand strategies. 
+~
+D_MOBIL
+Mobile Users
+It shows the number of mobile users in this city.
+~
+IPONLY 
+IP Required for Production
+If this option is enabled, then companies can only produce products in this product category if they own the IP or have access to the IP. 
+~
+CITYTOT
+Total sales in this city
+The sale data include both retail and ecommerce sales.
+~
+ANALYSIS
+Toogle Analysis Mode (Hotkey: Z)
+Toggle between the Analysis Mode and the standard 3x3 layout mode. 
+~
+FA_LEVEL
+Overall Experience Level of the Factory 
+This is determined by the experience levels of all individual units in your factory. 
+~
+FA_UTIL
+Overall Capacity Utilization Rate of the Factory 
+A high utilization rate means that your factory is operating efficiently. A low rate means that your factory has idle time and its capacity is underutilized. 
+~
+FA_STOCK
+Stock in the Factory 
+The stock level of the finished product in the factory.  
+~
+FA_INPUT
+Quality of Input Items  
+The part of the finished product's quality that is contributed by its input items' quality. 
+~
+FA_TECH 
+Production Technology 
+The part of the finished product's quality that is contributed by the production technology. 
+~
+FA_OUTPU
+The quality of the finished product.
+`
+~
+I_BOND
+Hotkey: Ctrl-B
+`
+~
+SHOWSUPL
+Show the current supplier.
+`
+~

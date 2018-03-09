@@ -1,0 +1,200 @@
+GM_DIFF
+Niveau de difficulté
+Choisissez l'un des huit niveaux de difficulté prédéfinis. Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu
+~
+GM_NOC
+Nombre de ville
+Jouez avec une ou plusieurs villes.
+~
+GM_SUC
+Votre capital de démarrage
+Réglez le niveau de trésorerie de votre société au début de la partie.
+~
+GM_ADV
+Votre avantage
+`
+~
+GM_ASI
+Marché boursier
+Le marché boursier permet la négociation d'actions.
+~
+GM_CUST
+Personnalisation du produit
+Si cette option est activée, vous trouverez l'outil de personnalisation du produit dans le Guide du fabricant. (L'option "de perturbation de la technologie" est désactivée lorsque "Personnalisation du produit" est activé.)
+~
+GM_CUSTR
+Produit de personnalisation Gamme
+Bas - La personnalisation des produits s'applique à votre société uniquement; Moyen - il applique à votre société et à vos filiales; Haute - il applique à toutes les sociétés. 
+~
+GM_PRI
+Société privée (Subsidiary DLC)
+Si cette option est activée, votre société va commencer comme une entreprise privée.
+~
+GM_SUE
+Marché boursier alternatif 
+Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation.
+~
+GM_RE
+Evénements aléatoires
+Autorise les événements comme des fléaux, maladies animales et pannes de courant géante et leurs conséquences économiques.
+~
+GM_TEC
+Perturbation de technologie
+Si elle est activée, la perturbation de technologie se produit en permanence et toutes les variables technologiques diminuent de 10% chaque année. 
+~
+GM_FM
+Fusion amicale d'IA
+Si elle est activée, deux sociétés d'IA peuvent fusionner pour des conditions mutuellement avantageuses.
+~
+GM_MER
+Macro économie réaliste
+Si elle est au plus élevé, la macro économie dans le jeu sera simulé avec un haut niveau de réalisme.
+~
+GM_INF
+Inflation 
+L'inflation est activée lorsque cette option est activée. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. 
+~
+GM_INFS
+Force de l'inflation 
+Sélectionnez inflation réduite pour une moins forte inflation. En tant que telle, l'inflation sera supprimée artificiellement. 
+~
+GM_RST
+Type de magasin
+Choisissez «nombreux» pour permettre les magasins spécialisés, tels que les supermarchés, les magasins de meubles, etc., ou 'Un seul' pour avoir seulement les grands magasins.
+~
+GM_GSY
+Date de départ du jeu
+Définir une date ultérieure réduit le nombre de technologies que vous devrez rechercher avant que de les fabriquer.
+~
+GM_NOCO
+Nombre de compétiteurs
+Détermine le nombre de compétiteurs contre lesquels vous allez jouer.
+~
+GM_CSC
+Capital de démarrage des concurrents
+Détermine les réserves de liquidités initiales des sociétés rivales.
+~
+GM_CA
+Agressivité des concurrents
+Détermine l'agressivité économique des sociétés rivales.
+~
+GM_CEL
+Niveau d'expertise des concurrents
+Détermine la compétence des sociétés rivales.
+~
+GM_CADV
+Avantage des compétiteurs
+`
+~
+GM_CTS
+Montrer les secrets commerciaux des concurents
+Si vous selectionnez oui, vous verrez le niveau de technologie des concurents.
+~
+GM_CLC
+Compétence de la concurence locale
+Détermine le niveau de la concurence locale.
+~
+GM_NOSC
+Nombre de port important des produits de consomation par ville
+Un grand nombre de port important des produits de consomation améliore la disponibilité des produits de consomation a vendre dans vos magasins (Réduit le besoin de fabriquer des produits).
+~
+GM_NOSI
+Nombre de port important des marchandises industrielle par ville
+Un grand nombre de port important des marchandises industrielle améliore la disponibilité des marchandises industrielle pour vos usines (Augmente le potentiel de fabrication).
+~
+GM_SN
+Nouveau Port durant le jeu
+Autorise la création de nouveaux ports.
+~
+GM_SCI
+Importation de marchandise constante
+L'importation constante évite de devoir chercher de nouveaux fournisseurs.
+~
+GM_SIQ
+Qualité des importations
+Les produits de qualité médiocre offrent la possibilité aux jeunes fabricants locaux de rivaliser. Les produits de haute qualité offrent au consommateur une perspective commerciale plus attrayante.
+~
+CHALCONF
+Vous devez confirmer avant d'envoyer ce Défi à d'autres joueurs.
+Vous pouvez commencer le jeu d'abord, puis ajuster le défi et les paramètres des objectifs au besoin, et enfin les confirmer.
+~ 
+CHALHOW
+Page Web Comment Faire 
+Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.
+~
+GENDER_M
+Homme 
+`
+~
+GENDER_F
+Femme 
+`
+~
+GM_RDI1
+Désactivation aléatoire des classes de produits
+Lorsque vous cochez cette case, le système désactive aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu. 
+~
+GM_RDI2
+Pourcentage des classes de produits à désactiver
+Définissez le pourcentage de classes de produits à désactiver. Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits. 
+~
+AIPRIVAT
+Pourcentage de concurrents qui sont des entreprises privées (Subsidiary DLC)
+Les sociétés IA sont créées de manière aléatoire en tant que sociétés privées avec cette préférence. 
+~
+SUBCOUNT
+Vos filiales (Subsidiary DLC)
+Le nombre de filiales que votre entreprise possède au début du jeu. 
+~
+GS_PLIST
+Liste de produits 
+Vous pouvez exclure certains produits du jeu en les sélectionnant manuellement ou en utilisant la fonction "Désactiver les classes de produits au hasard" pour les sélectionner automatiquement. 
+~
+GM_CCITY
+Argent de la première ville (City Economic Simulation DLC)
+Le niveau d'argent liquide de la première ville au début du jeu.  
+~
+GM_PUBEX
+Indice des dépenses publiques
+Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire. Lorsqu'elle est fixée à une valeur élevée, la même installation publique entraînera des frais d'exploitation plus élevés.  
+~
+GM_RFL
+Etages des magasins de détail
+Choisissez "Multiple" pour permettre la configuration de plusieurs étages dans un même magasin de détail. 
+~
+GM_DONPP
+Dons aux partis politiques rivaux 
+Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps. Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi. 
+~
+GM_RINV1
+Réinvention aléatoire des produits
+Lorsque vous cochez cette case, le système verrouillera aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu et demandera au joueur de les "réinventer" dans les centres de R&D. 
+~
+GM_RINV2
+Pourcentage de produits nécessitant une réinvention
+Définissez le pourcentage de produits à verrouiller initialement dans le jeu, qui peuvent être déverrouillés via des projets d'invention de R&D. 
+~
+LANDPRIC
+Indice des prix des terrains
+Si cet indice est supérieur à 100, le prix des terrains de ce jeu sera supérieur à la normale. Inversement, si cet indice est inférieur à 100, les entreprises peuvent acheter des terrains à moindre coût.
+~
+SOFT_IDX
+Indice des revenus des logiciels
+Si cet indice est supérieur à 100, la demande et les revenus générés par les logiciels de ce jeu seront supérieurs à la normale. Inversement, si cet indice est inférieur à 100, les entreprises de logiciels seront moins rentables.
+~
+WEB_IDX
+Indice des revenus Internet
+Si cet indice est supérieur à 100, les revenus générés par les sociétés Internet seront supérieurs à la normale. Inversement, si cet indice est inférieur à 100, les sociétés Internet seront moins rentables.
+~
+AI_AC_PI
+IA acquiert des sociétés fermées
+Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non. 
+~
+AI_IPO
+Est-ce que les sociétés d'IA tech vont faire leur introduction en bourse?
+Si cela est activé, les sociétés de technologie de l'IA peuvent entrer en bourse. 
+~
+ECOM_SET
+Commerce électronique 
+Si cela est activé, les entreprises pourront créer des entreprises de commerce électronique et vendre des produits par le biais du commerce électronique. 
+~

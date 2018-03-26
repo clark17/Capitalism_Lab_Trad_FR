@@ -18,10 +18,14 @@ Avancement
 ----------
 
 dossier text:
-gm_help.txt 100%
-help.txt 10%
-t_basic.txt 100%
-t_game 15%
+
+gm_help.txt -> 100%
+
+help.txt -> 10%
+
+t_basic.txt -> 100%
+
+t_game -> 15%
 
 dossier guide 0%
 

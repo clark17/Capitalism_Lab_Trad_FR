@@ -30,39 +30,39 @@
 [0154]<EMGS>Empty Game Slot|Fichier de Sauvegarde Vide
 [0155]<PAGE>page %1d/%2d|
 [0156]<-DSL>Impossible de supprimer ce slot|
-[0158]<GDAT>Game date: |
-[0159]<FDAT>File date: |
-[0160]<FNAM>File name: |
-[0161]<AOVW>It will overwrite the existing save game. Proceed ?|
-[0162]<SE-L>Cannot load in scenario editor|
-[0163]<ADLS>This save game will be deleted. Proceed ?|
-[0164]<DESV>Description of the save game:|
-[0165]<OUTD>Insufficient disk space ! The game is not saved.|
-[0166]<LE_O>Cannot open the save game file|
-[0167]<LE_H>Cannot read file header|
-[0168]<LE_P>Cannot load the save game. It was saved with a different version of Capitalism.|
+[0158]<GDAT>Date du jeu: |
+[0159]<FDAT>Date du fichier: |
+[0160]<FNAM>Nom de fichier: |
+[0161]<AOVW>Écraser la sauvegarde existante?|
+[0162]<SE-L>Impossible de charger dans l'éditeur de scénarios|
+[0163]<ADLS>Cette sauvegarde sera supprimée. Procédez ?|
+[0164]<DESV>Description de la sauvegarde :|
+[0165]<OUTD>Espace disque insuffisant ! Le jeu n'est pas sauvegardé.|
+[0166]<LE_O>Impossible d'ouvrir le fichier de sauvegarde du jeu.|
+[0167]<LE_H>Impossible de lire l'en-tête du fichier|
+[0168]<LE_P>Impossible de charger la sauvegarde. Elle a été sauvé avec une version différente.|
 [0169]<LE_G>Erreur de chargement de la partie|
-[0170]<SE_C>Error creating save game file.|
-[0171]<SE_H>Error creating save game header.|
-[0172]<SE_G>Error writing save game data.|
-[0174]<LOB?>Cannot connect to lobby|
-[0175]<LOBC>Cannot get connection string from lobby|
-[0186]<STAY>Do you want to continue to stay in the game?|
-[0188]<RSTT>Restart Game|
+[0170]<SE_C>Erreur lors de la création du fichier d'enregistrement du jeu.|
+[0171]<SE_H>Erreur dans la création de l'en-tête de sauvegarde du jeu.|
+[0172]<SE_G>Erreur d'écriture des données de jeu.|
+[0174]<LOB?>Impossible de se connecter au lobby|
+[0175]<LOBC>Impossible d'obtenir une chaîne de connexion à partir du lobby.|
+[0186]<STAY>Voulez-vous continuer à rester dans le jeu ?|
+[0188]<RSTT>Redémarrer le jeu|
 [0189]<RETI>Retire|Prendre sa Retraite
 [0190]<RETR>Retreat|Retraite
 [0196]<ASRS>Voulez-vous vraiment redémarrer?|
 [0241]<CHEA>Mode Triche Activé.|
 [0257]<SVSU>Partie sauvegardé avec succès|
-[0258]<WAIT>Waiting for %1s %2s|
-[0274]<GOAW>You will be victorious when you have:|
-[0286]<IPXL>Join a local area network game|
-[0287]<TCPL>Join a local area network or Internet game|
-[0288]<MODL>Join with another player by Modem|
-[0289]<COML>Join with another player linked by serial cable|
-[0298]<PRFL>Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
+[0258]<WAIT>En attendant %1s %2s|
+[0274]<GOAW>Vous serez victorieux quand vous aurez fait :|
+[0286]<IPXL>Rejoindre une partie en réseau local|
+[0287]<TCPL>Rejoindre une partie en réseau local ou sur Internet|
+[0288]<MODL>Rejoindre un autre joueur par Modem|
+[0289]<COML>Rejoindre un autre joueur relié par câble série|
+[0298]<PRFL>Attention : Ceci supprimera toutes les informations de votre compte du lobby multijoueur qui sont liées à ce profil de joueur.|
 [0299]<#rL0>%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
-[0300]<#?L0>#r - ranking of players|
+[0300]<#?L0>#r - classement des joueurs|
 [0301]<#?L1>#? - Aide|
 [0322]<ENVI>ENVIRONNEMENT|
 [0323]<CMPT>CONCURENTS|
@@ -86,14 +86,14 @@
 [0463]<DSM1>Beaucoup|
 [0464]<DSM2>Un seul|
 [0467]<GSYI>Année de Démarrage de la partie|
-[0504]<AIG1>Grand strategy failed, cannot find location to build.|
+[0504]<AIG1>La grande stratégie a échoué, ne peut pas trouver l'emplacement à construire.|
 [0505]<GP41>Vous déclarer en faillite, ETES VOUS SUR ?|
 [0506]<GP42>Oui|
 [0507]<GP43>Non|
 [0508]<IGM1>Voulez-vous vraiment partir à la retraite?|
 [0509]<IGM2>Oui|
 [0510]<IGM3>Non|
-[0511]<IGM4>Do you really want to quit to the Main Menu?|
+[0511]<IGM4>Voulez-vous vraiment quitter le menu principal ?|
 [0512]<IGM5>Oui|
 [0513]<IGM6>Non|
 [0514]<IGM7>Voulez vous vraiment quitter vers Windows?|
